@@ -1,0 +1,59 @@
+Directoare:
+--------------------------
+1. schelet_cod_testare
+--------------------------
+	-fisiere nemodificate (identice cu varianta din resurse_tema2): Makefile, ruter.c, helpers.h
+	-fisier modificat: simulator.c
+	-fisier nou: run.h
+	
+	 Am modificat (putin) formatul iesirii, ca sa fie mai usor de verificat. Noua modificare permite sortarea outputului si verificarea cu diff. 
+	 Mai exact, in simulator.c am modificat afisarea tabelelor de rutare de la liniile 160 si 171 astfel: (inainte nu era primul fprintf).
+
+			for (k = 0; k < KIDS; k++) {
+            	fprintf (fislog, "\n Timp %d, tabela rutare ruter %d: ", mesaj.time, mesaj.sender);
+                fprintf (fislog, "%d % 4d % 3d\n", k, tr[k][0], tr[k][1]);
+            }
+            
+
+	Fisierele sortate pot fi obtinute cu comanda bash:
+
+	sort log_rutare > log_rutareX  
+	(unde x e indicele exemplului)
+
+	Pentru verificare, sortati-va si voi log rutare (de exemplu redirectat in my_output) verificati astfel (comanda diff ar trebui sa nu dea niciun output, daca cele 2 fisiere sunt la fel)
+
+	diff -Bw log_rutare2 my_output 
+
+	Scriptul (de o linie) run.sh permite rularea cu fisiere de input care nu se numesc neaparat events.in
+
+	Exemplu folosire(1):
+	bash run.sh fisier_events
+
+	Exemplu folosire(2):
+	chmod +x run.sh 
+	./run.sh eventsX.in
+
+
+--------------------------
+2. ex_initial
+--------------------------
+	-fisiere nemodificate (identice cu varianta din resurse_tema2): events.in
+	-fisier modificat: log_rutare_sortat  (aceleasi informatii utile ca in log_rutare din exemplul initial, dar re-formatat (ca sa permita sortare) si sortat)
+	
+	
+--------------------------
+2. ex2
+--------------------------
+	- alt exemplu, cu input si output (in noul format, sortat ca mai sus)
+	
+
+--------------------------
+2. ex3
+--------------------------
+	- alt exemplu, cu input si 2 variante (ambele conform specificatiilor) de output (in noul format, sortat)
+	
+Exemplul 3 are  2 variante de output, ambele valide dpdv al specificatiilor din enunt. Ambele fisiere de output ies din acelasi fisier sursa, dar rulari diferite. Puteti sa folositi si acest exemplu ca sa va verificati implementarea, dar va garantez ca nu voi folosi astfel de exemple la corectare (vor fi doar exemple cu o singura varianta de iesire.)
+
+Diferentele intre cele 2 variante sunt generate de faptul ca avem un eveniment de stergere de link fix inainte de un eveniment de adaugare de link, pentru acelasi nod si conteaza (dar nu putem sa controlam) ordinea de primire a mesajelor de la vecini.
+	
+		

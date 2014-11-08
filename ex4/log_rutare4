@@ -1,0 +1,4158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Timp 0, tabela rutare ruter 0
+ Timp 0, tabela rutare ruter 0: 0    0  -1
+ Timp 0, tabela rutare ruter 0: 1  999  -1
+ Timp 0, tabela rutare ruter 0: 2  999  -1
+ Timp 0, tabela rutare ruter 0: 3  999  -1
+ Timp 0, tabela rutare ruter 0: 4  999  -1
+ Timp 0, tabela rutare ruter 0: 5  999  -1
+ Timp 0, tabela rutare ruter 0: 6  999  -1
+ Timp 0, tabela rutare ruter 0: 7  999  -1
+ Timp 0, tabela rutare ruter 0: 8  999  -1
+ Timp 0, tabela rutare ruter 0: 9  999  -1
+ Timp 0, tabela rutare ruter 1
+ Timp 0, tabela rutare ruter 1: 0  999  -1
+ Timp 0, tabela rutare ruter 1: 1    0  -1
+ Timp 0, tabela rutare ruter 1: 2  999  -1
+ Timp 0, tabela rutare ruter 1: 3  999  -1
+ Timp 0, tabela rutare ruter 1: 4  999  -1
+ Timp 0, tabela rutare ruter 1: 5  999  -1
+ Timp 0, tabela rutare ruter 1: 6  999  -1
+ Timp 0, tabela rutare ruter 1: 7  999  -1
+ Timp 0, tabela rutare ruter 1: 8  999  -1
+ Timp 0, tabela rutare ruter 1: 9  999  -1
+ Timp 10, tabela rutare ruter 0
+ Timp 10, tabela rutare ruter 0: 0    0  -1
+ Timp 10, tabela rutare ruter 0: 1    1   1
+ Timp 10, tabela rutare ruter 0: 2    2   1
+ Timp 10, tabela rutare ruter 0: 3    3   1
+ Timp 10, tabela rutare ruter 0: 4    4   1
+ Timp 10, tabela rutare ruter 0: 5  999  -1
+ Timp 10, tabela rutare ruter 0: 6  999  -1
+ Timp 10, tabela rutare ruter 0: 7  999  -1
+ Timp 10, tabela rutare ruter 0: 8  999  -1
+ Timp 10, tabela rutare ruter 0: 9  999  -1
+ Timp 10, tabela rutare ruter 1
+ Timp 10, tabela rutare ruter 1: 0    1   0
+ Timp 10, tabela rutare ruter 1: 1    0  -1
+ Timp 10, tabela rutare ruter 1: 2    1   2
+ Timp 10, tabela rutare ruter 1: 3    2   2
+ Timp 10, tabela rutare ruter 1: 4    3   2
+ Timp 10, tabela rutare ruter 1: 5  999  -1
+ Timp 10, tabela rutare ruter 1: 6  999  -1
+ Timp 10, tabela rutare ruter 1: 7  999  -1
+ Timp 10, tabela rutare ruter 1: 8  999  -1
+ Timp 10, tabela rutare ruter 1: 9  999  -1
+ Timp 10, tabela rutare ruter 2
+ Timp 10, tabela rutare ruter 2: 0    2   1
+ Timp 10, tabela rutare ruter 2: 1    1   1
+ Timp 10, tabela rutare ruter 2: 2    0  -1
+ Timp 10, tabela rutare ruter 2: 3    1   3
+ Timp 10, tabela rutare ruter 2: 4    2   3
+ Timp 10, tabela rutare ruter 2: 5  999  -1
+ Timp 10, tabela rutare ruter 2: 6  999  -1
+ Timp 10, tabela rutare ruter 2: 7  999  -1
+ Timp 10, tabela rutare ruter 2: 8  999  -1
+ Timp 10, tabela rutare ruter 2: 9  999  -1
+ Timp 10, tabela rutare ruter 3
+ Timp 10, tabela rutare ruter 3: 0    3   2
+ Timp 10, tabela rutare ruter 3: 1    2   2
+ Timp 10, tabela rutare ruter 3: 2    1   2
+ Timp 10, tabela rutare ruter 3: 3    0  -1
+ Timp 10, tabela rutare ruter 3: 4    1   4
+ Timp 10, tabela rutare ruter 3: 5    2   4
+ Timp 10, tabela rutare ruter 3: 6  999  -1
+ Timp 10, tabela rutare ruter 3: 7  999  -1
+ Timp 10, tabela rutare ruter 3: 8  999  -1
+ Timp 10, tabela rutare ruter 3: 9  999  -1
+ Timp 10, tabela rutare ruter 4
+ Timp 10, tabela rutare ruter 4: 0    4   3
+ Timp 10, tabela rutare ruter 4: 1    3   3
+ Timp 10, tabela rutare ruter 4: 2    2   3
+ Timp 10, tabela rutare ruter 4: 3    1   3
+ Timp 10, tabela rutare ruter 4: 4    0  -1
+ Timp 10, tabela rutare ruter 4: 5    1   5
+ Timp 10, tabela rutare ruter 4: 6  999  -1
+ Timp 10, tabela rutare ruter 4: 7  999  -1
+ Timp 10, tabela rutare ruter 4: 8  999  -1
+ Timp 10, tabela rutare ruter 4: 9  999  -1
+ Timp 10, tabela rutare ruter 5
+ Timp 10, tabela rutare ruter 5: 0    5   4
+ Timp 10, tabela rutare ruter 5: 1    4   4
+ Timp 10, tabela rutare ruter 5: 2    3   4
+ Timp 10, tabela rutare ruter 5: 3    2   4
+ Timp 10, tabela rutare ruter 5: 4    1   4
+ Timp 10, tabela rutare ruter 5: 5    0  -1
+ Timp 10, tabela rutare ruter 5: 6  999  -1
+ Timp 10, tabela rutare ruter 5: 7  999  -1
+ Timp 10, tabela rutare ruter 5: 8  999  -1
+ Timp 10, tabela rutare ruter 5: 9  999  -1
+ Timp 10, tabela rutare ruter 6
+ Timp 10, tabela rutare ruter 6: 0  999  -1
+ Timp 10, tabela rutare ruter 6: 1  999  -1
+ Timp 10, tabela rutare ruter 6: 2  999  -1
+ Timp 10, tabela rutare ruter 6: 3  999  -1
+ Timp 10, tabela rutare ruter 6: 4  999  -1
+ Timp 10, tabela rutare ruter 6: 5  999  -1
+ Timp 10, tabela rutare ruter 6: 6    0  -1
+ Timp 10, tabela rutare ruter 6: 7  999  -1
+ Timp 10, tabela rutare ruter 6: 8  999  -1
+ Timp 10, tabela rutare ruter 6: 9  999  -1
+ Timp 11, tabela rutare ruter 0
+ Timp 11, tabela rutare ruter 0: 0    0  -1
+ Timp 11, tabela rutare ruter 0: 1    1   1
+ Timp 11, tabela rutare ruter 0: 2    2   1
+ Timp 11, tabela rutare ruter 0: 3    3   1
+ Timp 11, tabela rutare ruter 0: 4    4   1
+ Timp 11, tabela rutare ruter 0: 5  999  -1
+ Timp 11, tabela rutare ruter 0: 6  999  -1
+ Timp 11, tabela rutare ruter 0: 7  999  -1
+ Timp 11, tabela rutare ruter 0: 8  999  -1
+ Timp 11, tabela rutare ruter 0: 9  999  -1
+ Timp 11, tabela rutare ruter 1
+ Timp 11, tabela rutare ruter 1: 0    1   0
+ Timp 11, tabela rutare ruter 1: 1    0  -1
+ Timp 11, tabela rutare ruter 1: 2    1   2
+ Timp 11, tabela rutare ruter 1: 3    2   2
+ Timp 11, tabela rutare ruter 1: 4    3   2
+ Timp 11, tabela rutare ruter 1: 5  999  -1
+ Timp 11, tabela rutare ruter 1: 6  999  -1
+ Timp 11, tabela rutare ruter 1: 7  999  -1
+ Timp 11, tabela rutare ruter 1: 8  999  -1
+ Timp 11, tabela rutare ruter 1: 9  999  -1
+ Timp 11, tabela rutare ruter 2
+ Timp 11, tabela rutare ruter 2: 0    2   1
+ Timp 11, tabela rutare ruter 2: 1    1   1
+ Timp 11, tabela rutare ruter 2: 2    0  -1
+ Timp 11, tabela rutare ruter 2: 3    1   3
+ Timp 11, tabela rutare ruter 2: 4    2   3
+ Timp 11, tabela rutare ruter 2: 5    3   3
+ Timp 11, tabela rutare ruter 2: 6  999  -1
+ Timp 11, tabela rutare ruter 2: 7  999  -1
+ Timp 11, tabela rutare ruter 2: 8  999  -1
+ Timp 11, tabela rutare ruter 2: 9  999  -1
+ Timp 11, tabela rutare ruter 3
+ Timp 11, tabela rutare ruter 3: 0    3   2
+ Timp 11, tabela rutare ruter 3: 1    2   2
+ Timp 11, tabela rutare ruter 3: 2    1   2
+ Timp 11, tabela rutare ruter 3: 3    0  -1
+ Timp 11, tabela rutare ruter 3: 4    1   4
+ Timp 11, tabela rutare ruter 3: 5    2   4
+ Timp 11, tabela rutare ruter 3: 6  999  -1
+ Timp 11, tabela rutare ruter 3: 7  999  -1
+ Timp 11, tabela rutare ruter 3: 8  999  -1
+ Timp 11, tabela rutare ruter 3: 9  999  -1
+ Timp 11, tabela rutare ruter 4
+ Timp 11, tabela rutare ruter 4: 0    4   3
+ Timp 11, tabela rutare ruter 4: 1    3   3
+ Timp 11, tabela rutare ruter 4: 2    2   3
+ Timp 11, tabela rutare ruter 4: 3    1   3
+ Timp 11, tabela rutare ruter 4: 4    0  -1
+ Timp 11, tabela rutare ruter 4: 5    1   5
+ Timp 11, tabela rutare ruter 4: 6  999  -1
+ Timp 11, tabela rutare ruter 4: 7  999  -1
+ Timp 11, tabela rutare ruter 4: 8  999  -1
+ Timp 11, tabela rutare ruter 4: 9  999  -1
+ Timp 11, tabela rutare ruter 5
+ Timp 11, tabela rutare ruter 5: 0    5   4
+ Timp 11, tabela rutare ruter 5: 1    4   4
+ Timp 11, tabela rutare ruter 5: 2    3   4
+ Timp 11, tabela rutare ruter 5: 3    2   4
+ Timp 11, tabela rutare ruter 5: 4    1   4
+ Timp 11, tabela rutare ruter 5: 5    0  -1
+ Timp 11, tabela rutare ruter 5: 6    1   6
+ Timp 11, tabela rutare ruter 5: 7  999  -1
+ Timp 11, tabela rutare ruter 5: 8  999  -1
+ Timp 11, tabela rutare ruter 5: 9  999  -1
+ Timp 11, tabela rutare ruter 6
+ Timp 11, tabela rutare ruter 6: 0  999  -1
+ Timp 11, tabela rutare ruter 6: 1  999  -1
+ Timp 11, tabela rutare ruter 6: 2  999  -1
+ Timp 11, tabela rutare ruter 6: 3  999  -1
+ Timp 11, tabela rutare ruter 6: 4  999  -1
+ Timp 11, tabela rutare ruter 6: 5  999  -1
+ Timp 11, tabela rutare ruter 6: 6    0  -1
+ Timp 11, tabela rutare ruter 6: 7  999  -1
+ Timp 11, tabela rutare ruter 6: 8  999  -1
+ Timp 11, tabela rutare ruter 6: 9  999  -1
+ Timp 12, tabela rutare ruter 0
+ Timp 12, tabela rutare ruter 0: 0    0  -1
+ Timp 12, tabela rutare ruter 0: 1    1   1
+ Timp 12, tabela rutare ruter 0: 2    2   1
+ Timp 12, tabela rutare ruter 0: 3    3   1
+ Timp 12, tabela rutare ruter 0: 4    4   1
+ Timp 12, tabela rutare ruter 0: 5  999  -1
+ Timp 12, tabela rutare ruter 0: 6  999  -1
+ Timp 12, tabela rutare ruter 0: 7  999  -1
+ Timp 12, tabela rutare ruter 0: 8  999  -1
+ Timp 12, tabela rutare ruter 0: 9  999  -1
+ Timp 12, tabela rutare ruter 1
+ Timp 12, tabela rutare ruter 1: 0    1   0
+ Timp 12, tabela rutare ruter 1: 1    0  -1
+ Timp 12, tabela rutare ruter 1: 2    1   2
+ Timp 12, tabela rutare ruter 1: 3    2   2
+ Timp 12, tabela rutare ruter 1: 4    3   2
+ Timp 12, tabela rutare ruter 1: 5    4   2
+ Timp 12, tabela rutare ruter 1: 6  999  -1
+ Timp 12, tabela rutare ruter 1: 7  999  -1
+ Timp 12, tabela rutare ruter 1: 8  999  -1
+ Timp 12, tabela rutare ruter 1: 9  999  -1
+ Timp 12, tabela rutare ruter 2
+ Timp 12, tabela rutare ruter 2: 0    2   1
+ Timp 12, tabela rutare ruter 2: 1    1   1
+ Timp 12, tabela rutare ruter 2: 2    0  -1
+ Timp 12, tabela rutare ruter 2: 3    1   3
+ Timp 12, tabela rutare ruter 2: 4    2   3
+ Timp 12, tabela rutare ruter 2: 5    3   3
+ Timp 12, tabela rutare ruter 2: 6  999  -1
+ Timp 12, tabela rutare ruter 2: 7  999  -1
+ Timp 12, tabela rutare ruter 2: 8  999  -1
+ Timp 12, tabela rutare ruter 2: 9  999  -1
+ Timp 12, tabela rutare ruter 3
+ Timp 12, tabela rutare ruter 3: 0    3   2
+ Timp 12, tabela rutare ruter 3: 1    2   2
+ Timp 12, tabela rutare ruter 3: 2    1   2
+ Timp 12, tabela rutare ruter 3: 3    0  -1
+ Timp 12, tabela rutare ruter 3: 4    1   4
+ Timp 12, tabela rutare ruter 3: 5    2   4
+ Timp 12, tabela rutare ruter 3: 6  999  -1
+ Timp 12, tabela rutare ruter 3: 7  999  -1
+ Timp 12, tabela rutare ruter 3: 8  999  -1
+ Timp 12, tabela rutare ruter 3: 9  999  -1
+ Timp 12, tabela rutare ruter 4
+ Timp 12, tabela rutare ruter 4: 0    4   3
+ Timp 12, tabela rutare ruter 4: 1    3   3
+ Timp 12, tabela rutare ruter 4: 2    2   3
+ Timp 12, tabela rutare ruter 4: 3    1   3
+ Timp 12, tabela rutare ruter 4: 4    0  -1
+ Timp 12, tabela rutare ruter 4: 5    1   5
+ Timp 12, tabela rutare ruter 4: 6    2   5
+ Timp 12, tabela rutare ruter 4: 7  999  -1
+ Timp 12, tabela rutare ruter 4: 8  999  -1
+ Timp 12, tabela rutare ruter 4: 9  999  -1
+ Timp 12, tabela rutare ruter 5
+ Timp 12, tabela rutare ruter 5: 0    5   4
+ Timp 12, tabela rutare ruter 5: 1    4   4
+ Timp 12, tabela rutare ruter 5: 2    3   4
+ Timp 12, tabela rutare ruter 5: 3    2   4
+ Timp 12, tabela rutare ruter 5: 4    1   4
+ Timp 12, tabela rutare ruter 5: 5    0  -1
+ Timp 12, tabela rutare ruter 5: 6    1   6
+ Timp 12, tabela rutare ruter 5: 7  999  -1
+ Timp 12, tabela rutare ruter 5: 8  999  -1
+ Timp 12, tabela rutare ruter 5: 9  999  -1
+ Timp 12, tabela rutare ruter 6
+ Timp 12, tabela rutare ruter 6: 0    6   5
+ Timp 12, tabela rutare ruter 6: 1    5   5
+ Timp 12, tabela rutare ruter 6: 2    4   5
+ Timp 12, tabela rutare ruter 6: 3    3   5
+ Timp 12, tabela rutare ruter 6: 4    2   5
+ Timp 12, tabela rutare ruter 6: 5    1   5
+ Timp 12, tabela rutare ruter 6: 6    0  -1
+ Timp 12, tabela rutare ruter 6: 7  999  -1
+ Timp 12, tabela rutare ruter 6: 8  999  -1
+ Timp 12, tabela rutare ruter 6: 9  999  -1
+ Timp 12, tabela rutare ruter 7
+ Timp 12, tabela rutare ruter 7: 0  999  -1
+ Timp 12, tabela rutare ruter 7: 1  999  -1
+ Timp 12, tabela rutare ruter 7: 2  999  -1
+ Timp 12, tabela rutare ruter 7: 3  999  -1
+ Timp 12, tabela rutare ruter 7: 4  999  -1
+ Timp 12, tabela rutare ruter 7: 5  999  -1
+ Timp 12, tabela rutare ruter 7: 6  999  -1
+ Timp 12, tabela rutare ruter 7: 7    0  -1
+ Timp 12, tabela rutare ruter 7: 8  999  -1
+ Timp 12, tabela rutare ruter 7: 9  999  -1
+ Timp 13, tabela rutare ruter 0
+ Timp 13, tabela rutare ruter 0: 0    0  -1
+ Timp 13, tabela rutare ruter 0: 1    1   1
+ Timp 13, tabela rutare ruter 0: 2    2   1
+ Timp 13, tabela rutare ruter 0: 3    3   1
+ Timp 13, tabela rutare ruter 0: 4    4   1
+ Timp 13, tabela rutare ruter 0: 5    5   1
+ Timp 13, tabela rutare ruter 0: 6  999  -1
+ Timp 13, tabela rutare ruter 0: 7  999  -1
+ Timp 13, tabela rutare ruter 0: 8  999  -1
+ Timp 13, tabela rutare ruter 0: 9  999  -1
+ Timp 13, tabela rutare ruter 1
+ Timp 13, tabela rutare ruter 1: 0    1   0
+ Timp 13, tabela rutare ruter 1: 1    0  -1
+ Timp 13, tabela rutare ruter 1: 2    1   2
+ Timp 13, tabela rutare ruter 1: 3    2   2
+ Timp 13, tabela rutare ruter 1: 4    3   2
+ Timp 13, tabela rutare ruter 1: 5    4   2
+ Timp 13, tabela rutare ruter 1: 6  999  -1
+ Timp 13, tabela rutare ruter 1: 7  999  -1
+ Timp 13, tabela rutare ruter 1: 8  999  -1
+ Timp 13, tabela rutare ruter 1: 9  999  -1
+ Timp 13, tabela rutare ruter 2
+ Timp 13, tabela rutare ruter 2: 0    2   1
+ Timp 13, tabela rutare ruter 2: 1    1   1
+ Timp 13, tabela rutare ruter 2: 2    0  -1
+ Timp 13, tabela rutare ruter 2: 3    1   3
+ Timp 13, tabela rutare ruter 2: 4    2   3
+ Timp 13, tabela rutare ruter 2: 5    3   3
+ Timp 13, tabela rutare ruter 2: 6  999  -1
+ Timp 13, tabela rutare ruter 2: 7  999  -1
+ Timp 13, tabela rutare ruter 2: 8  999  -1
+ Timp 13, tabela rutare ruter 2: 9  999  -1
+ Timp 13, tabela rutare ruter 3
+ Timp 13, tabela rutare ruter 3: 0    3   2
+ Timp 13, tabela rutare ruter 3: 1    2   2
+ Timp 13, tabela rutare ruter 3: 2    1   2
+ Timp 13, tabela rutare ruter 3: 3    0  -1
+ Timp 13, tabela rutare ruter 3: 4    1   4
+ Timp 13, tabela rutare ruter 3: 5    2   4
+ Timp 13, tabela rutare ruter 3: 6    3   4
+ Timp 13, tabela rutare ruter 3: 7  999  -1
+ Timp 13, tabela rutare ruter 3: 8  999  -1
+ Timp 13, tabela rutare ruter 3: 9  999  -1
+ Timp 13, tabela rutare ruter 4
+ Timp 13, tabela rutare ruter 4: 0    4   3
+ Timp 13, tabela rutare ruter 4: 1    3   3
+ Timp 13, tabela rutare ruter 4: 2    2   3
+ Timp 13, tabela rutare ruter 4: 3    1   3
+ Timp 13, tabela rutare ruter 4: 4    0  -1
+ Timp 13, tabela rutare ruter 4: 5    1   5
+ Timp 13, tabela rutare ruter 4: 6    2   5
+ Timp 13, tabela rutare ruter 4: 7  999  -1
+ Timp 13, tabela rutare ruter 4: 8  999  -1
+ Timp 13, tabela rutare ruter 4: 9  999  -1
+ Timp 13, tabela rutare ruter 5
+ Timp 13, tabela rutare ruter 5: 0    5   4
+ Timp 13, tabela rutare ruter 5: 1    4   4
+ Timp 13, tabela rutare ruter 5: 2    3   4
+ Timp 13, tabela rutare ruter 5: 3    2   4
+ Timp 13, tabela rutare ruter 5: 4    1   4
+ Timp 13, tabela rutare ruter 5: 5    0  -1
+ Timp 13, tabela rutare ruter 5: 6    1   6
+ Timp 13, tabela rutare ruter 5: 7  999  -1
+ Timp 13, tabela rutare ruter 5: 8  999  -1
+ Timp 13, tabela rutare ruter 5: 9  999  -1
+ Timp 13, tabela rutare ruter 6
+ Timp 13, tabela rutare ruter 6: 0    6   5
+ Timp 13, tabela rutare ruter 6: 1    5   5
+ Timp 13, tabela rutare ruter 6: 2    4   5
+ Timp 13, tabela rutare ruter 6: 3    3   5
+ Timp 13, tabela rutare ruter 6: 4    2   5
+ Timp 13, tabela rutare ruter 6: 5    1   5
+ Timp 13, tabela rutare ruter 6: 6    0  -1
+ Timp 13, tabela rutare ruter 6: 7    1   7
+ Timp 13, tabela rutare ruter 6: 8  999  -1
+ Timp 13, tabela rutare ruter 6: 9  999  -1
+ Timp 13, tabela rutare ruter 7
+ Timp 13, tabela rutare ruter 7: 0  999  -1
+ Timp 13, tabela rutare ruter 7: 1  999  -1
+ Timp 13, tabela rutare ruter 7: 2  999  -1
+ Timp 13, tabela rutare ruter 7: 3  999  -1
+ Timp 13, tabela rutare ruter 7: 4  999  -1
+ Timp 13, tabela rutare ruter 7: 5  999  -1
+ Timp 13, tabela rutare ruter 7: 6  999  -1
+ Timp 13, tabela rutare ruter 7: 7    0  -1
+ Timp 13, tabela rutare ruter 7: 8  999  -1
+ Timp 13, tabela rutare ruter 7: 9  999  -1
+ Timp 14, tabela rutare ruter 0
+ Timp 14, tabela rutare ruter 0: 0    0  -1
+ Timp 14, tabela rutare ruter 0: 1    1   1
+ Timp 14, tabela rutare ruter 0: 2    2   1
+ Timp 14, tabela rutare ruter 0: 3    3   1
+ Timp 14, tabela rutare ruter 0: 4    4   1
+ Timp 14, tabela rutare ruter 0: 5    5   1
+ Timp 14, tabela rutare ruter 0: 6  999  -1
+ Timp 14, tabela rutare ruter 0: 7  999  -1
+ Timp 14, tabela rutare ruter 0: 8  999  -1
+ Timp 14, tabela rutare ruter 0: 9  999  -1
+ Timp 14, tabela rutare ruter 1
+ Timp 14, tabela rutare ruter 1: 0    1   0
+ Timp 14, tabela rutare ruter 1: 1    0  -1
+ Timp 14, tabela rutare ruter 1: 2    1   2
+ Timp 14, tabela rutare ruter 1: 3    2   2
+ Timp 14, tabela rutare ruter 1: 4    3   2
+ Timp 14, tabela rutare ruter 1: 5    4   2
+ Timp 14, tabela rutare ruter 1: 6  999  -1
+ Timp 14, tabela rutare ruter 1: 7  999  -1
+ Timp 14, tabela rutare ruter 1: 8  999  -1
+ Timp 14, tabela rutare ruter 1: 9  999  -1
+ Timp 14, tabela rutare ruter 2
+ Timp 14, tabela rutare ruter 2: 0    2   1
+ Timp 14, tabela rutare ruter 2: 1    1   1
+ Timp 14, tabela rutare ruter 2: 2    0  -1
+ Timp 14, tabela rutare ruter 2: 3    1   3
+ Timp 14, tabela rutare ruter 2: 4    2   3
+ Timp 14, tabela rutare ruter 2: 5    3   3
+ Timp 14, tabela rutare ruter 2: 6    4   3
+ Timp 14, tabela rutare ruter 2: 7  999  -1
+ Timp 14, tabela rutare ruter 2: 8  999  -1
+ Timp 14, tabela rutare ruter 2: 9  999  -1
+ Timp 14, tabela rutare ruter 3
+ Timp 14, tabela rutare ruter 3: 0    3   2
+ Timp 14, tabela rutare ruter 3: 1    2   2
+ Timp 14, tabela rutare ruter 3: 2    1   2
+ Timp 14, tabela rutare ruter 3: 3    0  -1
+ Timp 14, tabela rutare ruter 3: 4    1   4
+ Timp 14, tabela rutare ruter 3: 5    2   4
+ Timp 14, tabela rutare ruter 3: 6    3   4
+ Timp 14, tabela rutare ruter 3: 7  999  -1
+ Timp 14, tabela rutare ruter 3: 8  999  -1
+ Timp 14, tabela rutare ruter 3: 9  999  -1
+ Timp 14, tabela rutare ruter 4
+ Timp 14, tabela rutare ruter 4: 0    4   3
+ Timp 14, tabela rutare ruter 4: 1    3   3
+ Timp 14, tabela rutare ruter 4: 2    2   3
+ Timp 14, tabela rutare ruter 4: 3    1   3
+ Timp 14, tabela rutare ruter 4: 4    0  -1
+ Timp 14, tabela rutare ruter 4: 5    1   5
+ Timp 14, tabela rutare ruter 4: 6    2   5
+ Timp 14, tabela rutare ruter 4: 7  999  -1
+ Timp 14, tabela rutare ruter 4: 8  999  -1
+ Timp 14, tabela rutare ruter 4: 9  999  -1
+ Timp 14, tabela rutare ruter 5
+ Timp 14, tabela rutare ruter 5: 0    5   4
+ Timp 14, tabela rutare ruter 5: 1    4   4
+ Timp 14, tabela rutare ruter 5: 2    3   4
+ Timp 14, tabela rutare ruter 5: 3    2   4
+ Timp 14, tabela rutare ruter 5: 4    1   4
+ Timp 14, tabela rutare ruter 5: 5    0  -1
+ Timp 14, tabela rutare ruter 5: 6    1   6
+ Timp 14, tabela rutare ruter 5: 7    2   6
+ Timp 14, tabela rutare ruter 5: 8  999  -1
+ Timp 14, tabela rutare ruter 5: 9  999  -1
+ Timp 14, tabela rutare ruter 6
+ Timp 14, tabela rutare ruter 6: 0    6   5
+ Timp 14, tabela rutare ruter 6: 1    5   5
+ Timp 14, tabela rutare ruter 6: 2    4   5
+ Timp 14, tabela rutare ruter 6: 3    3   5
+ Timp 14, tabela rutare ruter 6: 4    2   5
+ Timp 14, tabela rutare ruter 6: 5    1   5
+ Timp 14, tabela rutare ruter 6: 6    0  -1
+ Timp 14, tabela rutare ruter 6: 7    1   7
+ Timp 14, tabela rutare ruter 6: 8  999  -1
+ Timp 14, tabela rutare ruter 6: 9  999  -1
+ Timp 14, tabela rutare ruter 7
+ Timp 14, tabela rutare ruter 7: 0    7   6
+ Timp 14, tabela rutare ruter 7: 1    6   6
+ Timp 14, tabela rutare ruter 7: 2    5   6
+ Timp 14, tabela rutare ruter 7: 3    4   6
+ Timp 14, tabela rutare ruter 7: 4    3   6
+ Timp 14, tabela rutare ruter 7: 5    2   6
+ Timp 14, tabela rutare ruter 7: 6    1   6
+ Timp 14, tabela rutare ruter 7: 7    0  -1
+ Timp 14, tabela rutare ruter 7: 8  999  -1
+ Timp 14, tabela rutare ruter 7: 9  999  -1
+ Timp 14, tabela rutare ruter 8
+ Timp 14, tabela rutare ruter 8: 0  999  -1
+ Timp 14, tabela rutare ruter 8: 1  999  -1
+ Timp 14, tabela rutare ruter 8: 2  999  -1
+ Timp 14, tabela rutare ruter 8: 3  999  -1
+ Timp 14, tabela rutare ruter 8: 4  999  -1
+ Timp 14, tabela rutare ruter 8: 5  999  -1
+ Timp 14, tabela rutare ruter 8: 6  999  -1
+ Timp 14, tabela rutare ruter 8: 7  999  -1
+ Timp 14, tabela rutare ruter 8: 8    0  -1
+ Timp 14, tabela rutare ruter 8: 9  999  -1
+ Timp 15, tabela rutare ruter 0
+ Timp 15, tabela rutare ruter 0: 0    0  -1
+ Timp 15, tabela rutare ruter 0: 1    1   1
+ Timp 15, tabela rutare ruter 0: 2    2   1
+ Timp 15, tabela rutare ruter 0: 3    3   1
+ Timp 15, tabela rutare ruter 0: 4    4   1
+ Timp 15, tabela rutare ruter 0: 5    5   1
+ Timp 15, tabela rutare ruter 0: 6  999  -1
+ Timp 15, tabela rutare ruter 0: 7  999  -1
+ Timp 15, tabela rutare ruter 0: 8  999  -1
+ Timp 15, tabela rutare ruter 0: 9  999  -1
+ Timp 15, tabela rutare ruter 1
+ Timp 15, tabela rutare ruter 1: 0    1   0
+ Timp 15, tabela rutare ruter 1: 1    0  -1
+ Timp 15, tabela rutare ruter 1: 2    1   2
+ Timp 15, tabela rutare ruter 1: 3    2   2
+ Timp 15, tabela rutare ruter 1: 4    3   2
+ Timp 15, tabela rutare ruter 1: 5    4   2
+ Timp 15, tabela rutare ruter 1: 6    5   2
+ Timp 15, tabela rutare ruter 1: 7  999  -1
+ Timp 15, tabela rutare ruter 1: 8  999  -1
+ Timp 15, tabela rutare ruter 1: 9  999  -1
+ Timp 15, tabela rutare ruter 2
+ Timp 15, tabela rutare ruter 2: 0    2   1
+ Timp 15, tabela rutare ruter 2: 1    1   1
+ Timp 15, tabela rutare ruter 2: 2    0  -1
+ Timp 15, tabela rutare ruter 2: 3    1   3
+ Timp 15, tabela rutare ruter 2: 4    2   3
+ Timp 15, tabela rutare ruter 2: 5    3   3
+ Timp 15, tabela rutare ruter 2: 6    4   3
+ Timp 15, tabela rutare ruter 2: 7  999  -1
+ Timp 15, tabela rutare ruter 2: 8  999  -1
+ Timp 15, tabela rutare ruter 2: 9  999  -1
+ Timp 15, tabela rutare ruter 3
+ Timp 15, tabela rutare ruter 3: 0    3   2
+ Timp 15, tabela rutare ruter 3: 1    2   2
+ Timp 15, tabela rutare ruter 3: 2    1   2
+ Timp 15, tabela rutare ruter 3: 3    0  -1
+ Timp 15, tabela rutare ruter 3: 4    1   4
+ Timp 15, tabela rutare ruter 3: 5    2   4
+ Timp 15, tabela rutare ruter 3: 6    3   4
+ Timp 15, tabela rutare ruter 3: 7  999  -1
+ Timp 15, tabela rutare ruter 3: 8  999  -1
+ Timp 15, tabela rutare ruter 3: 9  999  -1
+ Timp 15, tabela rutare ruter 4
+ Timp 15, tabela rutare ruter 4: 0    4   3
+ Timp 15, tabela rutare ruter 4: 1    3   3
+ Timp 15, tabela rutare ruter 4: 2    2   3
+ Timp 15, tabela rutare ruter 4: 3    1   3
+ Timp 15, tabela rutare ruter 4: 4    0  -1
+ Timp 15, tabela rutare ruter 4: 5    1   5
+ Timp 15, tabela rutare ruter 4: 6    2   5
+ Timp 15, tabela rutare ruter 4: 7    3   5
+ Timp 15, tabela rutare ruter 4: 8  999  -1
+ Timp 15, tabela rutare ruter 4: 9  999  -1
+ Timp 15, tabela rutare ruter 5
+ Timp 15, tabela rutare ruter 5: 0    5   4
+ Timp 15, tabela rutare ruter 5: 1    4   4
+ Timp 15, tabela rutare ruter 5: 2    3   4
+ Timp 15, tabela rutare ruter 5: 3    2   4
+ Timp 15, tabela rutare ruter 5: 4    1   4
+ Timp 15, tabela rutare ruter 5: 5    0  -1
+ Timp 15, tabela rutare ruter 5: 6    1   6
+ Timp 15, tabela rutare ruter 5: 7    2   6
+ Timp 15, tabela rutare ruter 5: 8  999  -1
+ Timp 15, tabela rutare ruter 5: 9  999  -1
+ Timp 15, tabela rutare ruter 6
+ Timp 15, tabela rutare ruter 6: 0    6   5
+ Timp 15, tabela rutare ruter 6: 1    5   5
+ Timp 15, tabela rutare ruter 6: 2    4   5
+ Timp 15, tabela rutare ruter 6: 3    3   5
+ Timp 15, tabela rutare ruter 6: 4    2   5
+ Timp 15, tabela rutare ruter 6: 5    1   5
+ Timp 15, tabela rutare ruter 6: 6    0  -1
+ Timp 15, tabela rutare ruter 6: 7    1   7
+ Timp 15, tabela rutare ruter 6: 8  999  -1
+ Timp 15, tabela rutare ruter 6: 9  999  -1
+ Timp 15, tabela rutare ruter 7
+ Timp 15, tabela rutare ruter 7: 0    7   6
+ Timp 15, tabela rutare ruter 7: 1    6   6
+ Timp 15, tabela rutare ruter 7: 2    5   6
+ Timp 15, tabela rutare ruter 7: 3    4   6
+ Timp 15, tabela rutare ruter 7: 4    3   6
+ Timp 15, tabela rutare ruter 7: 5    2   6
+ Timp 15, tabela rutare ruter 7: 6    1   6
+ Timp 15, tabela rutare ruter 7: 7    0  -1
+ Timp 15, tabela rutare ruter 7: 8    1   8
+ Timp 15, tabela rutare ruter 7: 9  999  -1
+ Timp 15, tabela rutare ruter 8
+ Timp 15, tabela rutare ruter 8: 0  999  -1
+ Timp 15, tabela rutare ruter 8: 1  999  -1
+ Timp 15, tabela rutare ruter 8: 2  999  -1
+ Timp 15, tabela rutare ruter 8: 3  999  -1
+ Timp 15, tabela rutare ruter 8: 4  999  -1
+ Timp 15, tabela rutare ruter 8: 5  999  -1
+ Timp 15, tabela rutare ruter 8: 6  999  -1
+ Timp 15, tabela rutare ruter 8: 7  999  -1
+ Timp 15, tabela rutare ruter 8: 8    0  -1
+ Timp 15, tabela rutare ruter 8: 9  999  -1
+ Timp 16, tabela rutare ruter 0
+ Timp 16, tabela rutare ruter 0: 0    0  -1
+ Timp 16, tabela rutare ruter 0: 1    1   1
+ Timp 16, tabela rutare ruter 0: 2    2   1
+ Timp 16, tabela rutare ruter 0: 3    3   1
+ Timp 16, tabela rutare ruter 0: 4    4   1
+ Timp 16, tabela rutare ruter 0: 5    5   1
+ Timp 16, tabela rutare ruter 0: 6    6   1
+ Timp 16, tabela rutare ruter 0: 7  999  -1
+ Timp 16, tabela rutare ruter 0: 8  999  -1
+ Timp 16, tabela rutare ruter 0: 9  999  -1
+ Timp 16, tabela rutare ruter 1
+ Timp 16, tabela rutare ruter 1: 0    1   0
+ Timp 16, tabela rutare ruter 1: 1    0  -1
+ Timp 16, tabela rutare ruter 1: 2    1   2
+ Timp 16, tabela rutare ruter 1: 3    2   2
+ Timp 16, tabela rutare ruter 1: 4    3   2
+ Timp 16, tabela rutare ruter 1: 5    4   2
+ Timp 16, tabela rutare ruter 1: 6    5   2
+ Timp 16, tabela rutare ruter 1: 7  999  -1
+ Timp 16, tabela rutare ruter 1: 8  999  -1
+ Timp 16, tabela rutare ruter 1: 9  999  -1
+ Timp 16, tabela rutare ruter 2
+ Timp 16, tabela rutare ruter 2: 0    2   1
+ Timp 16, tabela rutare ruter 2: 1    1   1
+ Timp 16, tabela rutare ruter 2: 2    0  -1
+ Timp 16, tabela rutare ruter 2: 3    1   3
+ Timp 16, tabela rutare ruter 2: 4    2   3
+ Timp 16, tabela rutare ruter 2: 5    3   3
+ Timp 16, tabela rutare ruter 2: 6    4   3
+ Timp 16, tabela rutare ruter 2: 7  999  -1
+ Timp 16, tabela rutare ruter 2: 8  999  -1
+ Timp 16, tabela rutare ruter 2: 9  999  -1
+ Timp 16, tabela rutare ruter 3
+ Timp 16, tabela rutare ruter 3: 0    3   2
+ Timp 16, tabela rutare ruter 3: 1    2   2
+ Timp 16, tabela rutare ruter 3: 2    1   2
+ Timp 16, tabela rutare ruter 3: 3    0  -1
+ Timp 16, tabela rutare ruter 3: 4    1   4
+ Timp 16, tabela rutare ruter 3: 5    2   4
+ Timp 16, tabela rutare ruter 3: 6    3   4
+ Timp 16, tabela rutare ruter 3: 7    4   4
+ Timp 16, tabela rutare ruter 3: 8  999  -1
+ Timp 16, tabela rutare ruter 3: 9  999  -1
+ Timp 16, tabela rutare ruter 4
+ Timp 16, tabela rutare ruter 4: 0    4   3
+ Timp 16, tabela rutare ruter 4: 1    3   3
+ Timp 16, tabela rutare ruter 4: 2    2   3
+ Timp 16, tabela rutare ruter 4: 3    1   3
+ Timp 16, tabela rutare ruter 4: 4    0  -1
+ Timp 16, tabela rutare ruter 4: 5    1   5
+ Timp 16, tabela rutare ruter 4: 6    2   5
+ Timp 16, tabela rutare ruter 4: 7    3   5
+ Timp 16, tabela rutare ruter 4: 8  999  -1
+ Timp 16, tabela rutare ruter 4: 9  999  -1
+ Timp 16, tabela rutare ruter 5
+ Timp 16, tabela rutare ruter 5: 0    5   4
+ Timp 16, tabela rutare ruter 5: 1    4   4
+ Timp 16, tabela rutare ruter 5: 2    3   4
+ Timp 16, tabela rutare ruter 5: 3    2   4
+ Timp 16, tabela rutare ruter 5: 4    1   4
+ Timp 16, tabela rutare ruter 5: 5    0  -1
+ Timp 16, tabela rutare ruter 5: 6    1   6
+ Timp 16, tabela rutare ruter 5: 7    2   6
+ Timp 16, tabela rutare ruter 5: 8  999  -1
+ Timp 16, tabela rutare ruter 5: 9  999  -1
+ Timp 16, tabela rutare ruter 6
+ Timp 16, tabela rutare ruter 6: 0    6   5
+ Timp 16, tabela rutare ruter 6: 1    5   5
+ Timp 16, tabela rutare ruter 6: 2    4   5
+ Timp 16, tabela rutare ruter 6: 3    3   5
+ Timp 16, tabela rutare ruter 6: 4    2   5
+ Timp 16, tabela rutare ruter 6: 5    1   5
+ Timp 16, tabela rutare ruter 6: 6    0  -1
+ Timp 16, tabela rutare ruter 6: 7    1   7
+ Timp 16, tabela rutare ruter 6: 8    2   7
+ Timp 16, tabela rutare ruter 6: 9  999  -1
+ Timp 16, tabela rutare ruter 7
+ Timp 16, tabela rutare ruter 7: 0    7   6
+ Timp 16, tabela rutare ruter 7: 1    6   6
+ Timp 16, tabela rutare ruter 7: 2    5   6
+ Timp 16, tabela rutare ruter 7: 3    4   6
+ Timp 16, tabela rutare ruter 7: 4    3   6
+ Timp 16, tabela rutare ruter 7: 5    2   6
+ Timp 16, tabela rutare ruter 7: 6    1   6
+ Timp 16, tabela rutare ruter 7: 7    0  -1
+ Timp 16, tabela rutare ruter 7: 8    1   8
+ Timp 16, tabela rutare ruter 7: 9  999  -1
+ Timp 16, tabela rutare ruter 8
+ Timp 16, tabela rutare ruter 8: 0    8   7
+ Timp 16, tabela rutare ruter 8: 1    7   7
+ Timp 16, tabela rutare ruter 8: 2    6   7
+ Timp 16, tabela rutare ruter 8: 3    5   7
+ Timp 16, tabela rutare ruter 8: 4    4   7
+ Timp 16, tabela rutare ruter 8: 5    3   7
+ Timp 16, tabela rutare ruter 8: 6    2   7
+ Timp 16, tabela rutare ruter 8: 7    1   7
+ Timp 16, tabela rutare ruter 8: 8    0  -1
+ Timp 16, tabela rutare ruter 8: 9  999  -1
+ Timp 16, tabela rutare ruter 9
+ Timp 16, tabela rutare ruter 9: 0  999  -1
+ Timp 16, tabela rutare ruter 9: 1  999  -1
+ Timp 16, tabela rutare ruter 9: 2  999  -1
+ Timp 16, tabela rutare ruter 9: 3  999  -1
+ Timp 16, tabela rutare ruter 9: 4  999  -1
+ Timp 16, tabela rutare ruter 9: 5  999  -1
+ Timp 16, tabela rutare ruter 9: 6  999  -1
+ Timp 16, tabela rutare ruter 9: 7  999  -1
+ Timp 16, tabela rutare ruter 9: 8  999  -1
+ Timp 16, tabela rutare ruter 9: 9    0  -1
+ Timp 17, tabela rutare ruter 0
+ Timp 17, tabela rutare ruter 0: 0    0  -1
+ Timp 17, tabela rutare ruter 0: 1    1   1
+ Timp 17, tabela rutare ruter 0: 2    2   1
+ Timp 17, tabela rutare ruter 0: 3    3   1
+ Timp 17, tabela rutare ruter 0: 4    4   1
+ Timp 17, tabela rutare ruter 0: 5    5   1
+ Timp 17, tabela rutare ruter 0: 6    6   1
+ Timp 17, tabela rutare ruter 0: 7  999  -1
+ Timp 17, tabela rutare ruter 0: 8  999  -1
+ Timp 17, tabela rutare ruter 0: 9  999  -1
+ Timp 17, tabela rutare ruter 1
+ Timp 17, tabela rutare ruter 1: 0    1   0
+ Timp 17, tabela rutare ruter 1: 1    0  -1
+ Timp 17, tabela rutare ruter 1: 2    1   2
+ Timp 17, tabela rutare ruter 1: 3    2   2
+ Timp 17, tabela rutare ruter 1: 4    3   2
+ Timp 17, tabela rutare ruter 1: 5    4   2
+ Timp 17, tabela rutare ruter 1: 6    5   2
+ Timp 17, tabela rutare ruter 1: 7  999  -1
+ Timp 17, tabela rutare ruter 1: 8  999  -1
+ Timp 17, tabela rutare ruter 1: 9  999  -1
+ Timp 17, tabela rutare ruter 2
+ Timp 17, tabela rutare ruter 2: 0    2   1
+ Timp 17, tabela rutare ruter 2: 1    1   1
+ Timp 17, tabela rutare ruter 2: 2    0  -1
+ Timp 17, tabela rutare ruter 2: 3    1   3
+ Timp 17, tabela rutare ruter 2: 4    2   3
+ Timp 17, tabela rutare ruter 2: 5    3   3
+ Timp 17, tabela rutare ruter 2: 6    4   3
+ Timp 17, tabela rutare ruter 2: 7    5   3
+ Timp 17, tabela rutare ruter 2: 8  999  -1
+ Timp 17, tabela rutare ruter 2: 9  999  -1
+ Timp 17, tabela rutare ruter 3
+ Timp 17, tabela rutare ruter 3: 0    3   2
+ Timp 17, tabela rutare ruter 3: 1    2   2
+ Timp 17, tabela rutare ruter 3: 2    1   2
+ Timp 17, tabela rutare ruter 3: 3    0  -1
+ Timp 17, tabela rutare ruter 3: 4    1   4
+ Timp 17, tabela rutare ruter 3: 5    2   4
+ Timp 17, tabela rutare ruter 3: 6    3   4
+ Timp 17, tabela rutare ruter 3: 7    4   4
+ Timp 17, tabela rutare ruter 3: 8  999  -1
+ Timp 17, tabela rutare ruter 3: 9  999  -1
+ Timp 17, tabela rutare ruter 4
+ Timp 17, tabela rutare ruter 4: 0    4   3
+ Timp 17, tabela rutare ruter 4: 1    3   3
+ Timp 17, tabela rutare ruter 4: 2    2   3
+ Timp 17, tabela rutare ruter 4: 3    1   3
+ Timp 17, tabela rutare ruter 4: 4    0  -1
+ Timp 17, tabela rutare ruter 4: 5    1   5
+ Timp 17, tabela rutare ruter 4: 6    2   5
+ Timp 17, tabela rutare ruter 4: 7    3   5
+ Timp 17, tabela rutare ruter 4: 8  999  -1
+ Timp 17, tabela rutare ruter 4: 9  999  -1
+ Timp 17, tabela rutare ruter 5
+ Timp 17, tabela rutare ruter 5: 0    5   4
+ Timp 17, tabela rutare ruter 5: 1    4   4
+ Timp 17, tabela rutare ruter 5: 2    3   4
+ Timp 17, tabela rutare ruter 5: 3    2   4
+ Timp 17, tabela rutare ruter 5: 4    1   4
+ Timp 17, tabela rutare ruter 5: 5    0  -1
+ Timp 17, tabela rutare ruter 5: 6    1   6
+ Timp 17, tabela rutare ruter 5: 7    2   6
+ Timp 17, tabela rutare ruter 5: 8    3   6
+ Timp 17, tabela rutare ruter 5: 9  999  -1
+ Timp 17, tabela rutare ruter 6
+ Timp 17, tabela rutare ruter 6: 0    6   5
+ Timp 17, tabela rutare ruter 6: 1    5   5
+ Timp 17, tabela rutare ruter 6: 2    4   5
+ Timp 17, tabela rutare ruter 6: 3    3   5
+ Timp 17, tabela rutare ruter 6: 4    2   5
+ Timp 17, tabela rutare ruter 6: 5    1   5
+ Timp 17, tabela rutare ruter 6: 6    0  -1
+ Timp 17, tabela rutare ruter 6: 7    1   7
+ Timp 17, tabela rutare ruter 6: 8    2   7
+ Timp 17, tabela rutare ruter 6: 9  999  -1
+ Timp 17, tabela rutare ruter 7
+ Timp 17, tabela rutare ruter 7: 0    7   6
+ Timp 17, tabela rutare ruter 7: 1    6   6
+ Timp 17, tabela rutare ruter 7: 2    5   6
+ Timp 17, tabela rutare ruter 7: 3    4   6
+ Timp 17, tabela rutare ruter 7: 4    3   6
+ Timp 17, tabela rutare ruter 7: 5    2   6
+ Timp 17, tabela rutare ruter 7: 6    1   6
+ Timp 17, tabela rutare ruter 7: 7    0  -1
+ Timp 17, tabela rutare ruter 7: 8    1   8
+ Timp 17, tabela rutare ruter 7: 9  999  -1
+ Timp 17, tabela rutare ruter 8
+ Timp 17, tabela rutare ruter 8: 0    8   7
+ Timp 17, tabela rutare ruter 8: 1    7   7
+ Timp 17, tabela rutare ruter 8: 2    6   7
+ Timp 17, tabela rutare ruter 8: 3    5   7
+ Timp 17, tabela rutare ruter 8: 4    4   7
+ Timp 17, tabela rutare ruter 8: 5    3   7
+ Timp 17, tabela rutare ruter 8: 6    2   7
+ Timp 17, tabela rutare ruter 8: 7    1   7
+ Timp 17, tabela rutare ruter 8: 8    0  -1
+ Timp 17, tabela rutare ruter 8: 9    1   9
+ Timp 17, tabela rutare ruter 9
+ Timp 17, tabela rutare ruter 9: 0  999  -1
+ Timp 17, tabela rutare ruter 9: 1  999  -1
+ Timp 17, tabela rutare ruter 9: 2  999  -1
+ Timp 17, tabela rutare ruter 9: 3  999  -1
+ Timp 17, tabela rutare ruter 9: 4  999  -1
+ Timp 17, tabela rutare ruter 9: 5  999  -1
+ Timp 17, tabela rutare ruter 9: 6  999  -1
+ Timp 17, tabela rutare ruter 9: 7  999  -1
+ Timp 17, tabela rutare ruter 9: 8  999  -1
+ Timp 17, tabela rutare ruter 9: 9    0  -1
+ Timp 18, tabela rutare ruter 0
+ Timp 18, tabela rutare ruter 0: 0    0  -1
+ Timp 18, tabela rutare ruter 0: 1    1   1
+ Timp 18, tabela rutare ruter 0: 2    2   1
+ Timp 18, tabela rutare ruter 0: 3    3   1
+ Timp 18, tabela rutare ruter 0: 4    4   1
+ Timp 18, tabela rutare ruter 0: 5    5   1
+ Timp 18, tabela rutare ruter 0: 6    6   1
+ Timp 18, tabela rutare ruter 0: 7  999  -1
+ Timp 18, tabela rutare ruter 0: 8  999  -1
+ Timp 18, tabela rutare ruter 0: 9  999  -1
+ Timp 18, tabela rutare ruter 1
+ Timp 18, tabela rutare ruter 1: 0    1   0
+ Timp 18, tabela rutare ruter 1: 1    0  -1
+ Timp 18, tabela rutare ruter 1: 2    1   2
+ Timp 18, tabela rutare ruter 1: 3    2   2
+ Timp 18, tabela rutare ruter 1: 4    3   2
+ Timp 18, tabela rutare ruter 1: 5    4   2
+ Timp 18, tabela rutare ruter 1: 6    5   2
+ Timp 18, tabela rutare ruter 1: 7    6   2
+ Timp 18, tabela rutare ruter 1: 8  999  -1
+ Timp 18, tabela rutare ruter 1: 9  999  -1
+ Timp 18, tabela rutare ruter 2
+ Timp 18, tabela rutare ruter 2: 0    2   1
+ Timp 18, tabela rutare ruter 2: 1    1   1
+ Timp 18, tabela rutare ruter 2: 2    0  -1
+ Timp 18, tabela rutare ruter 2: 3    1   3
+ Timp 18, tabela rutare ruter 2: 4    2   3
+ Timp 18, tabela rutare ruter 2: 5    3   3
+ Timp 18, tabela rutare ruter 2: 6    4   3
+ Timp 18, tabela rutare ruter 2: 7    5   3
+ Timp 18, tabela rutare ruter 2: 8  999  -1
+ Timp 18, tabela rutare ruter 2: 9  999  -1
+ Timp 18, tabela rutare ruter 3
+ Timp 18, tabela rutare ruter 3: 0    3   2
+ Timp 18, tabela rutare ruter 3: 1    2   2
+ Timp 18, tabela rutare ruter 3: 2    1   2
+ Timp 18, tabela rutare ruter 3: 3    0  -1
+ Timp 18, tabela rutare ruter 3: 4    1   4
+ Timp 18, tabela rutare ruter 3: 5    2   4
+ Timp 18, tabela rutare ruter 3: 6    3   4
+ Timp 18, tabela rutare ruter 3: 7    4   4
+ Timp 18, tabela rutare ruter 3: 8  999  -1
+ Timp 18, tabela rutare ruter 3: 9  999  -1
+ Timp 18, tabela rutare ruter 4
+ Timp 18, tabela rutare ruter 4: 0    4   3
+ Timp 18, tabela rutare ruter 4: 1    3   3
+ Timp 18, tabela rutare ruter 4: 2    2   3
+ Timp 18, tabela rutare ruter 4: 3    1   3
+ Timp 18, tabela rutare ruter 4: 4    0  -1
+ Timp 18, tabela rutare ruter 4: 5    1   5
+ Timp 18, tabela rutare ruter 4: 6    2   5
+ Timp 18, tabela rutare ruter 4: 7    3   5
+ Timp 18, tabela rutare ruter 4: 8    4   5
+ Timp 18, tabela rutare ruter 4: 9  999  -1
+ Timp 18, tabela rutare ruter 5
+ Timp 18, tabela rutare ruter 5: 0    5   4
+ Timp 18, tabela rutare ruter 5: 1    4   4
+ Timp 18, tabela rutare ruter 5: 2    3   4
+ Timp 18, tabela rutare ruter 5: 3    2   4
+ Timp 18, tabela rutare ruter 5: 4    1   4
+ Timp 18, tabela rutare ruter 5: 5    0  -1
+ Timp 18, tabela rutare ruter 5: 6    1   6
+ Timp 18, tabela rutare ruter 5: 7    2   6
+ Timp 18, tabela rutare ruter 5: 8    3   6
+ Timp 18, tabela rutare ruter 5: 9  999  -1
+ Timp 18, tabela rutare ruter 6
+ Timp 18, tabela rutare ruter 6: 0    6   5
+ Timp 18, tabela rutare ruter 6: 1    5   5
+ Timp 18, tabela rutare ruter 6: 2    4   5
+ Timp 18, tabela rutare ruter 6: 3    3   5
+ Timp 18, tabela rutare ruter 6: 4    2   5
+ Timp 18, tabela rutare ruter 6: 5    1   5
+ Timp 18, tabela rutare ruter 6: 6    0  -1
+ Timp 18, tabela rutare ruter 6: 7    1   7
+ Timp 18, tabela rutare ruter 6: 8    2   7
+ Timp 18, tabela rutare ruter 6: 9  999  -1
+ Timp 18, tabela rutare ruter 7
+ Timp 18, tabela rutare ruter 7: 0    7   6
+ Timp 18, tabela rutare ruter 7: 1    6   6
+ Timp 18, tabela rutare ruter 7: 2    5   6
+ Timp 18, tabela rutare ruter 7: 3    4   6
+ Timp 18, tabela rutare ruter 7: 4    3   6
+ Timp 18, tabela rutare ruter 7: 5    2   6
+ Timp 18, tabela rutare ruter 7: 6    1   6
+ Timp 18, tabela rutare ruter 7: 7    0  -1
+ Timp 18, tabela rutare ruter 7: 8    1   8
+ Timp 18, tabela rutare ruter 7: 9    2   8
+ Timp 18, tabela rutare ruter 8
+ Timp 18, tabela rutare ruter 8: 0    8   7
+ Timp 18, tabela rutare ruter 8: 1    7   7
+ Timp 18, tabela rutare ruter 8: 2    6   7
+ Timp 18, tabela rutare ruter 8: 3    5   7
+ Timp 18, tabela rutare ruter 8: 4    4   7
+ Timp 18, tabela rutare ruter 8: 5    3   7
+ Timp 18, tabela rutare ruter 8: 6    2   7
+ Timp 18, tabela rutare ruter 8: 7    1   7
+ Timp 18, tabela rutare ruter 8: 8    0  -1
+ Timp 18, tabela rutare ruter 8: 9    1   9
+ Timp 18, tabela rutare ruter 9
+ Timp 18, tabela rutare ruter 9: 0    9   8
+ Timp 18, tabela rutare ruter 9: 1    8   8
+ Timp 18, tabela rutare ruter 9: 2    7   8
+ Timp 18, tabela rutare ruter 9: 3    6   8
+ Timp 18, tabela rutare ruter 9: 4    5   8
+ Timp 18, tabela rutare ruter 9: 5    4   8
+ Timp 18, tabela rutare ruter 9: 6    3   8
+ Timp 18, tabela rutare ruter 9: 7    2   8
+ Timp 18, tabela rutare ruter 9: 8    1   8
+ Timp 18, tabela rutare ruter 9: 9    0  -1
+ Timp 19, tabela rutare ruter 0
+ Timp 19, tabela rutare ruter 0: 0    0  -1
+ Timp 19, tabela rutare ruter 0: 1    1   1
+ Timp 19, tabela rutare ruter 0: 2    2   1
+ Timp 19, tabela rutare ruter 0: 3    3   1
+ Timp 19, tabela rutare ruter 0: 4    4   1
+ Timp 19, tabela rutare ruter 0: 5    5   1
+ Timp 19, tabela rutare ruter 0: 6    6   1
+ Timp 19, tabela rutare ruter 0: 7    7   1
+ Timp 19, tabela rutare ruter 0: 8  999  -1
+ Timp 19, tabela rutare ruter 0: 9  999  -1
+ Timp 19, tabela rutare ruter 1
+ Timp 19, tabela rutare ruter 1: 0    1   0
+ Timp 19, tabela rutare ruter 1: 1    0  -1
+ Timp 19, tabela rutare ruter 1: 2    1   2
+ Timp 19, tabela rutare ruter 1: 3    2   2
+ Timp 19, tabela rutare ruter 1: 4    3   2
+ Timp 19, tabela rutare ruter 1: 5    4   2
+ Timp 19, tabela rutare ruter 1: 6    5   2
+ Timp 19, tabela rutare ruter 1: 7    6   2
+ Timp 19, tabela rutare ruter 1: 8  999  -1
+ Timp 19, tabela rutare ruter 1: 9  999  -1
+ Timp 19, tabela rutare ruter 2
+ Timp 19, tabela rutare ruter 2: 0    2   1
+ Timp 19, tabela rutare ruter 2: 1    1   1
+ Timp 19, tabela rutare ruter 2: 2    0  -1
+ Timp 19, tabela rutare ruter 2: 3    1   3
+ Timp 19, tabela rutare ruter 2: 4    2   3
+ Timp 19, tabela rutare ruter 2: 5    3   3
+ Timp 19, tabela rutare ruter 2: 6    4   3
+ Timp 19, tabela rutare ruter 2: 7    5   3
+ Timp 19, tabela rutare ruter 2: 8  999  -1
+ Timp 19, tabela rutare ruter 2: 9  999  -1
+ Timp 19, tabela rutare ruter 3
+ Timp 19, tabela rutare ruter 3: 0    3   2
+ Timp 19, tabela rutare ruter 3: 1    2   2
+ Timp 19, tabela rutare ruter 3: 2    1   2
+ Timp 19, tabela rutare ruter 3: 3    0  -1
+ Timp 19, tabela rutare ruter 3: 4    1   4
+ Timp 19, tabela rutare ruter 3: 5    2   4
+ Timp 19, tabela rutare ruter 3: 6    3   4
+ Timp 19, tabela rutare ruter 3: 7    4   4
+ Timp 19, tabela rutare ruter 3: 8    5   4
+ Timp 19, tabela rutare ruter 3: 9  999  -1
+ Timp 19, tabela rutare ruter 4
+ Timp 19, tabela rutare ruter 4: 0    4   3
+ Timp 19, tabela rutare ruter 4: 1    3   3
+ Timp 19, tabela rutare ruter 4: 2    2   3
+ Timp 19, tabela rutare ruter 4: 3    1   3
+ Timp 19, tabela rutare ruter 4: 4    0  -1
+ Timp 19, tabela rutare ruter 4: 5    1   5
+ Timp 19, tabela rutare ruter 4: 6    2   5
+ Timp 19, tabela rutare ruter 4: 7    3   5
+ Timp 19, tabela rutare ruter 4: 8    4   5
+ Timp 19, tabela rutare ruter 4: 9  999  -1
+ Timp 19, tabela rutare ruter 5
+ Timp 19, tabela rutare ruter 5: 0    5   4
+ Timp 19, tabela rutare ruter 5: 1    4   4
+ Timp 19, tabela rutare ruter 5: 2    3   4
+ Timp 19, tabela rutare ruter 5: 3    2   4
+ Timp 19, tabela rutare ruter 5: 4    1   4
+ Timp 19, tabela rutare ruter 5: 5    0  -1
+ Timp 19, tabela rutare ruter 5: 6    1   6
+ Timp 19, tabela rutare ruter 5: 7    2   6
+ Timp 19, tabela rutare ruter 5: 8    3   6
+ Timp 19, tabela rutare ruter 5: 9  999  -1
+ Timp 19, tabela rutare ruter 6
+ Timp 19, tabela rutare ruter 6: 0    6   5
+ Timp 19, tabela rutare ruter 6: 1    5   5
+ Timp 19, tabela rutare ruter 6: 2    4   5
+ Timp 19, tabela rutare ruter 6: 3    3   5
+ Timp 19, tabela rutare ruter 6: 4    2   5
+ Timp 19, tabela rutare ruter 6: 5    1   5
+ Timp 19, tabela rutare ruter 6: 6    0  -1
+ Timp 19, tabela rutare ruter 6: 7    1   7
+ Timp 19, tabela rutare ruter 6: 8    2   7
+ Timp 19, tabela rutare ruter 6: 9    3   7
+ Timp 19, tabela rutare ruter 7
+ Timp 19, tabela rutare ruter 7: 0    7   6
+ Timp 19, tabela rutare ruter 7: 1    6   6
+ Timp 19, tabela rutare ruter 7: 2    5   6
+ Timp 19, tabela rutare ruter 7: 3    4   6
+ Timp 19, tabela rutare ruter 7: 4    3   6
+ Timp 19, tabela rutare ruter 7: 5    2   6
+ Timp 19, tabela rutare ruter 7: 6    1   6
+ Timp 19, tabela rutare ruter 7: 7    0  -1
+ Timp 19, tabela rutare ruter 7: 8    1   8
+ Timp 19, tabela rutare ruter 7: 9    2   8
+ Timp 19, tabela rutare ruter 8
+ Timp 19, tabela rutare ruter 8: 0    8   7
+ Timp 19, tabela rutare ruter 8: 1    7   7
+ Timp 19, tabela rutare ruter 8: 2    6   7
+ Timp 19, tabela rutare ruter 8: 3    5   7
+ Timp 19, tabela rutare ruter 8: 4    4   7
+ Timp 19, tabela rutare ruter 8: 5    3   7
+ Timp 19, tabela rutare ruter 8: 6    2   7
+ Timp 19, tabela rutare ruter 8: 7    1   7
+ Timp 19, tabela rutare ruter 8: 8    0  -1
+ Timp 19, tabela rutare ruter 8: 9    1   9
+ Timp 19, tabela rutare ruter 9
+ Timp 19, tabela rutare ruter 9: 0    9   8
+ Timp 19, tabela rutare ruter 9: 1    8   8
+ Timp 19, tabela rutare ruter 9: 2    7   8
+ Timp 19, tabela rutare ruter 9: 3    6   8
+ Timp 19, tabela rutare ruter 9: 4    5   8
+ Timp 19, tabela rutare ruter 9: 5    4   8
+ Timp 19, tabela rutare ruter 9: 6    3   8
+ Timp 19, tabela rutare ruter 9: 7    2   8
+ Timp 19, tabela rutare ruter 9: 8    1   8
+ Timp 19, tabela rutare ruter 9: 9    0  -1
+ Timp -1, tabela rutare ruter 0
+ Timp 1, tabela rutare ruter 0
+ Timp -1, tabela rutare ruter 0: 0    0  -1
+ Timp 1, tabela rutare ruter 0: 0    0  -1
+ Timp 1, tabela rutare ruter 0: 1    1   1
+ Timp -1, tabela rutare ruter 0: 1  999  -1
+ Timp -1, tabela rutare ruter 0: 2  999  -1
+ Timp 1, tabela rutare ruter 0: 2  999  -1
+ Timp -1, tabela rutare ruter 0: 3  999  -1
+ Timp 1, tabela rutare ruter 0: 3  999  -1
+ Timp -1, tabela rutare ruter 0: 4  999  -1
+ Timp 1, tabela rutare ruter 0: 4  999  -1
+ Timp -1, tabela rutare ruter 0: 5  999  -1
+ Timp 1, tabela rutare ruter 0: 5  999  -1
+ Timp -1, tabela rutare ruter 0: 6  999  -1
+ Timp 1, tabela rutare ruter 0: 6  999  -1
+ Timp -1, tabela rutare ruter 0: 7  999  -1
+ Timp 1, tabela rutare ruter 0: 7  999  -1
+ Timp -1, tabela rutare ruter 0: 8  999  -1
+ Timp 1, tabela rutare ruter 0: 8  999  -1
+ Timp -1, tabela rutare ruter 0: 9  999  -1
+ Timp 1, tabela rutare ruter 0: 9  999  -1
+ Timp 1, tabela rutare ruter 1
+ Timp 1, tabela rutare ruter 1: 0  999  -1
+ Timp 1, tabela rutare ruter 1: 1    0  -1
+ Timp 1, tabela rutare ruter 1: 2  999  -1
+ Timp 1, tabela rutare ruter 1: 3  999  -1
+ Timp 1, tabela rutare ruter 1: 4  999  -1
+ Timp 1, tabela rutare ruter 1: 5  999  -1
+ Timp 1, tabela rutare ruter 1: 6  999  -1
+ Timp 1, tabela rutare ruter 1: 7  999  -1
+ Timp 1, tabela rutare ruter 1: 8  999  -1
+ Timp 1, tabela rutare ruter 1: 9  999  -1
+ Timp 20, tabela rutare ruter 0
+ Timp 20, tabela rutare ruter 0: 0    0  -1
+ Timp 20, tabela rutare ruter 0: 1    1   1
+ Timp 20, tabela rutare ruter 0: 2    2   1
+ Timp 20, tabela rutare ruter 0: 3    3   1
+ Timp 20, tabela rutare ruter 0: 4    4   1
+ Timp 20, tabela rutare ruter 0: 5    5   1
+ Timp 20, tabela rutare ruter 0: 6    6   1
+ Timp 20, tabela rutare ruter 0: 7    7   1
+ Timp 20, tabela rutare ruter 0: 8  999  -1
+ Timp 20, tabela rutare ruter 0: 9  999  -1
+ Timp 20, tabela rutare ruter 1
+ Timp 20, tabela rutare ruter 1: 0    1   0
+ Timp 20, tabela rutare ruter 1: 1    0  -1
+ Timp 20, tabela rutare ruter 1: 2    1   2
+ Timp 20, tabela rutare ruter 1: 3    2   2
+ Timp 20, tabela rutare ruter 1: 4    3   2
+ Timp 20, tabela rutare ruter 1: 5    4   2
+ Timp 20, tabela rutare ruter 1: 6    5   2
+ Timp 20, tabela rutare ruter 1: 7    6   2
+ Timp 20, tabela rutare ruter 1: 8  999  -1
+ Timp 20, tabela rutare ruter 1: 9  999  -1
+ Timp 20, tabela rutare ruter 2
+ Timp 20, tabela rutare ruter 2: 0    2   1
+ Timp 20, tabela rutare ruter 2: 1    1   1
+ Timp 20, tabela rutare ruter 2: 2    0  -1
+ Timp 20, tabela rutare ruter 2: 3    1   3
+ Timp 20, tabela rutare ruter 2: 4    2   3
+ Timp 20, tabela rutare ruter 2: 5    3   3
+ Timp 20, tabela rutare ruter 2: 6    4   3
+ Timp 20, tabela rutare ruter 2: 7    5   3
+ Timp 20, tabela rutare ruter 2: 8    6   3
+ Timp 20, tabela rutare ruter 2: 9  999  -1
+ Timp 20, tabela rutare ruter 3
+ Timp 20, tabela rutare ruter 3: 0    3   2
+ Timp 20, tabela rutare ruter 3: 1    2   2
+ Timp 20, tabela rutare ruter 3: 2    1   2
+ Timp 20, tabela rutare ruter 3: 3    0  -1
+ Timp 20, tabela rutare ruter 3: 4    1   4
+ Timp 20, tabela rutare ruter 3: 5    2   4
+ Timp 20, tabela rutare ruter 3: 6    3   4
+ Timp 20, tabela rutare ruter 3: 7    4   4
+ Timp 20, tabela rutare ruter 3: 8    5   4
+ Timp 20, tabela rutare ruter 3: 9  999  -1
+ Timp 20, tabela rutare ruter 4
+ Timp 20, tabela rutare ruter 4: 0    4   3
+ Timp 20, tabela rutare ruter 4: 1    3   3
+ Timp 20, tabela rutare ruter 4: 2    2   3
+ Timp 20, tabela rutare ruter 4: 3    1   3
+ Timp 20, tabela rutare ruter 4: 4    0  -1
+ Timp 20, tabela rutare ruter 4: 5    1   5
+ Timp 20, tabela rutare ruter 4: 6    2   5
+ Timp 20, tabela rutare ruter 4: 7    3   5
+ Timp 20, tabela rutare ruter 4: 8    4   5
+ Timp 20, tabela rutare ruter 4: 9  999  -1
+ Timp 20, tabela rutare ruter 5
+ Timp 20, tabela rutare ruter 5: 0    5   4
+ Timp 20, tabela rutare ruter 5: 1    4   4
+ Timp 20, tabela rutare ruter 5: 2    3   4
+ Timp 20, tabela rutare ruter 5: 3    2   4
+ Timp 20, tabela rutare ruter 5: 4    1   4
+ Timp 20, tabela rutare ruter 5: 5    0  -1
+ Timp 20, tabela rutare ruter 5: 6    1   6
+ Timp 20, tabela rutare ruter 5: 7    2   6
+ Timp 20, tabela rutare ruter 5: 8    3   6
+ Timp 20, tabela rutare ruter 5: 9    4   6
+ Timp 20, tabela rutare ruter 6
+ Timp 20, tabela rutare ruter 6: 0    6   5
+ Timp 20, tabela rutare ruter 6: 1    5   5
+ Timp 20, tabela rutare ruter 6: 2    4   5
+ Timp 20, tabela rutare ruter 6: 3    3   5
+ Timp 20, tabela rutare ruter 6: 4    2   5
+ Timp 20, tabela rutare ruter 6: 5    1   5
+ Timp 20, tabela rutare ruter 6: 6    0  -1
+ Timp 20, tabela rutare ruter 6: 7    1   7
+ Timp 20, tabela rutare ruter 6: 8    2   7
+ Timp 20, tabela rutare ruter 6: 9    3   7
+ Timp 20, tabela rutare ruter 7
+ Timp 20, tabela rutare ruter 7: 0    7   6
+ Timp 20, tabela rutare ruter 7: 1    6   6
+ Timp 20, tabela rutare ruter 7: 2    5   6
+ Timp 20, tabela rutare ruter 7: 3    4   6
+ Timp 20, tabela rutare ruter 7: 4    3   6
+ Timp 20, tabela rutare ruter 7: 5    2   6
+ Timp 20, tabela rutare ruter 7: 6    1   6
+ Timp 20, tabela rutare ruter 7: 7    0  -1
+ Timp 20, tabela rutare ruter 7: 8    1   8
+ Timp 20, tabela rutare ruter 7: 9    2   8
+ Timp 20, tabela rutare ruter 8
+ Timp 20, tabela rutare ruter 8: 0    8   7
+ Timp 20, tabela rutare ruter 8: 1    7   7
+ Timp 20, tabela rutare ruter 8: 2    6   7
+ Timp 20, tabela rutare ruter 8: 3    5   7
+ Timp 20, tabela rutare ruter 8: 4    4   7
+ Timp 20, tabela rutare ruter 8: 5    3   7
+ Timp 20, tabela rutare ruter 8: 6    2   7
+ Timp 20, tabela rutare ruter 8: 7    1   7
+ Timp 20, tabela rutare ruter 8: 8    0  -1
+ Timp 20, tabela rutare ruter 8: 9    1   9
+ Timp 20, tabela rutare ruter 9
+ Timp 20, tabela rutare ruter 9: 0    9   8
+ Timp 20, tabela rutare ruter 9: 1    8   8
+ Timp 20, tabela rutare ruter 9: 2    7   8
+ Timp 20, tabela rutare ruter 9: 3    6   8
+ Timp 20, tabela rutare ruter 9: 4    5   8
+ Timp 20, tabela rutare ruter 9: 5    4   8
+ Timp 20, tabela rutare ruter 9: 6    3   8
+ Timp 20, tabela rutare ruter 9: 7    2   8
+ Timp 20, tabela rutare ruter 9: 8    1   8
+ Timp 20, tabela rutare ruter 9: 9    0  -1
+ Timp 21, tabela rutare ruter 0
+ Timp 21, tabela rutare ruter 0: 0    0  -1
+ Timp 21, tabela rutare ruter 0: 1    1   1
+ Timp 21, tabela rutare ruter 0: 2    2   1
+ Timp 21, tabela rutare ruter 0: 3    3   1
+ Timp 21, tabela rutare ruter 0: 4    4   1
+ Timp 21, tabela rutare ruter 0: 5    5   1
+ Timp 21, tabela rutare ruter 0: 6    6   1
+ Timp 21, tabela rutare ruter 0: 7    7   1
+ Timp 21, tabela rutare ruter 0: 8  999  -1
+ Timp 21, tabela rutare ruter 0: 9  999  -1
+ Timp 21, tabela rutare ruter 1
+ Timp 21, tabela rutare ruter 1: 0    1   0
+ Timp 21, tabela rutare ruter 1: 1    0  -1
+ Timp 21, tabela rutare ruter 1: 2    1   2
+ Timp 21, tabela rutare ruter 1: 3    2   2
+ Timp 21, tabela rutare ruter 1: 4    3   2
+ Timp 21, tabela rutare ruter 1: 5    4   2
+ Timp 21, tabela rutare ruter 1: 6    5   2
+ Timp 21, tabela rutare ruter 1: 7    6   2
+ Timp 21, tabela rutare ruter 1: 8    7   2
+ Timp 21, tabela rutare ruter 1: 9  999  -1
+ Timp 21, tabela rutare ruter 2
+ Timp 21, tabela rutare ruter 2: 0    2   1
+ Timp 21, tabela rutare ruter 2: 1    1   1
+ Timp 21, tabela rutare ruter 2: 2    0  -1
+ Timp 21, tabela rutare ruter 2: 3    1   3
+ Timp 21, tabela rutare ruter 2: 4    2   3
+ Timp 21, tabela rutare ruter 2: 5    3   3
+ Timp 21, tabela rutare ruter 2: 6    4   3
+ Timp 21, tabela rutare ruter 2: 7    5   3
+ Timp 21, tabela rutare ruter 2: 8    6   3
+ Timp 21, tabela rutare ruter 2: 9  999  -1
+ Timp 21, tabela rutare ruter 3
+ Timp 21, tabela rutare ruter 3: 0    3   2
+ Timp 21, tabela rutare ruter 3: 1    2   2
+ Timp 21, tabela rutare ruter 3: 2    1   2
+ Timp 21, tabela rutare ruter 3: 3    0  -1
+ Timp 21, tabela rutare ruter 3: 4    1   4
+ Timp 21, tabela rutare ruter 3: 5    2   4
+ Timp 21, tabela rutare ruter 3: 6    3   4
+ Timp 21, tabela rutare ruter 3: 7    4   4
+ Timp 21, tabela rutare ruter 3: 8    5   4
+ Timp 21, tabela rutare ruter 3: 9  999  -1
+ Timp 21, tabela rutare ruter 4
+ Timp 21, tabela rutare ruter 4: 0    4   3
+ Timp 21, tabela rutare ruter 4: 1    3   3
+ Timp 21, tabela rutare ruter 4: 2    2   3
+ Timp 21, tabela rutare ruter 4: 3    1   3
+ Timp 21, tabela rutare ruter 4: 4    0  -1
+ Timp 21, tabela rutare ruter 4: 5    1   5
+ Timp 21, tabela rutare ruter 4: 6    2   5
+ Timp 21, tabela rutare ruter 4: 7    3   5
+ Timp 21, tabela rutare ruter 4: 8    4   5
+ Timp 21, tabela rutare ruter 4: 9    5   5
+ Timp 21, tabela rutare ruter 5
+ Timp 21, tabela rutare ruter 5: 0    5   4
+ Timp 21, tabela rutare ruter 5: 1    4   4
+ Timp 21, tabela rutare ruter 5: 2    3   4
+ Timp 21, tabela rutare ruter 5: 3    2   4
+ Timp 21, tabela rutare ruter 5: 4    1   4
+ Timp 21, tabela rutare ruter 5: 5    0  -1
+ Timp 21, tabela rutare ruter 5: 6    1   6
+ Timp 21, tabela rutare ruter 5: 7    2   6
+ Timp 21, tabela rutare ruter 5: 8    3   6
+ Timp 21, tabela rutare ruter 5: 9    4   6
+ Timp 21, tabela rutare ruter 6
+ Timp 21, tabela rutare ruter 6: 0    6   5
+ Timp 21, tabela rutare ruter 6: 1    5   5
+ Timp 21, tabela rutare ruter 6: 2    4   5
+ Timp 21, tabela rutare ruter 6: 3    3   5
+ Timp 21, tabela rutare ruter 6: 4    2   5
+ Timp 21, tabela rutare ruter 6: 5    1   5
+ Timp 21, tabela rutare ruter 6: 6    0  -1
+ Timp 21, tabela rutare ruter 6: 7    1   7
+ Timp 21, tabela rutare ruter 6: 8    2   7
+ Timp 21, tabela rutare ruter 6: 9    3   7
+ Timp 21, tabela rutare ruter 7
+ Timp 21, tabela rutare ruter 7: 0    7   6
+ Timp 21, tabela rutare ruter 7: 1    6   6
+ Timp 21, tabela rutare ruter 7: 2    5   6
+ Timp 21, tabela rutare ruter 7: 3    4   6
+ Timp 21, tabela rutare ruter 7: 4    3   6
+ Timp 21, tabela rutare ruter 7: 5    2   6
+ Timp 21, tabela rutare ruter 7: 6    1   6
+ Timp 21, tabela rutare ruter 7: 7    0  -1
+ Timp 21, tabela rutare ruter 7: 8    1   8
+ Timp 21, tabela rutare ruter 7: 9    2   8
+ Timp 21, tabela rutare ruter 8
+ Timp 21, tabela rutare ruter 8: 0    8   7
+ Timp 21, tabela rutare ruter 8: 1    7   7
+ Timp 21, tabela rutare ruter 8: 2    6   7
+ Timp 21, tabela rutare ruter 8: 3    5   7
+ Timp 21, tabela rutare ruter 8: 4    4   7
+ Timp 21, tabela rutare ruter 8: 5    3   7
+ Timp 21, tabela rutare ruter 8: 6    2   7
+ Timp 21, tabela rutare ruter 8: 7    1   7
+ Timp 21, tabela rutare ruter 8: 8    0  -1
+ Timp 21, tabela rutare ruter 8: 9    1   9
+ Timp 21, tabela rutare ruter 9
+ Timp 21, tabela rutare ruter 9: 0    9   8
+ Timp 21, tabela rutare ruter 9: 1    8   8
+ Timp 21, tabela rutare ruter 9: 2    7   8
+ Timp 21, tabela rutare ruter 9: 3    6   8
+ Timp 21, tabela rutare ruter 9: 4    5   8
+ Timp 21, tabela rutare ruter 9: 5    4   8
+ Timp 21, tabela rutare ruter 9: 6    3   8
+ Timp 21, tabela rutare ruter 9: 7    2   8
+ Timp 21, tabela rutare ruter 9: 8    1   8
+ Timp 21, tabela rutare ruter 9: 9    0  -1
+ Timp 22, tabela rutare ruter 0
+ Timp 22, tabela rutare ruter 0: 0    0  -1
+ Timp 22, tabela rutare ruter 0: 1    1   1
+ Timp 22, tabela rutare ruter 0: 2    2   1
+ Timp 22, tabela rutare ruter 0: 3    3   1
+ Timp 22, tabela rutare ruter 0: 4    4   1
+ Timp 22, tabela rutare ruter 0: 5    5   1
+ Timp 22, tabela rutare ruter 0: 6    6   1
+ Timp 22, tabela rutare ruter 0: 7    7   1
+ Timp 22, tabela rutare ruter 0: 8    8   1
+ Timp 22, tabela rutare ruter 0: 9  999  -1
+ Timp 22, tabela rutare ruter 1
+ Timp 22, tabela rutare ruter 1: 0    1   0
+ Timp 22, tabela rutare ruter 1: 1    0  -1
+ Timp 22, tabela rutare ruter 1: 2    1   2
+ Timp 22, tabela rutare ruter 1: 3    2   2
+ Timp 22, tabela rutare ruter 1: 4    3   2
+ Timp 22, tabela rutare ruter 1: 5    4   2
+ Timp 22, tabela rutare ruter 1: 6    5   2
+ Timp 22, tabela rutare ruter 1: 7    6   2
+ Timp 22, tabela rutare ruter 1: 8    7   2
+ Timp 22, tabela rutare ruter 1: 9  999  -1
+ Timp 22, tabela rutare ruter 2
+ Timp 22, tabela rutare ruter 2: 0    2   1
+ Timp 22, tabela rutare ruter 2: 1    1   1
+ Timp 22, tabela rutare ruter 2: 2    0  -1
+ Timp 22, tabela rutare ruter 2: 3    1   3
+ Timp 22, tabela rutare ruter 2: 4    2   3
+ Timp 22, tabela rutare ruter 2: 5    3   3
+ Timp 22, tabela rutare ruter 2: 6    4   3
+ Timp 22, tabela rutare ruter 2: 7    5   3
+ Timp 22, tabela rutare ruter 2: 8    6   3
+ Timp 22, tabela rutare ruter 2: 9  999  -1
+ Timp 22, tabela rutare ruter 3
+ Timp 22, tabela rutare ruter 3: 0    3   2
+ Timp 22, tabela rutare ruter 3: 1    2   2
+ Timp 22, tabela rutare ruter 3: 2    1   2
+ Timp 22, tabela rutare ruter 3: 3    0  -1
+ Timp 22, tabela rutare ruter 3: 4    1   4
+ Timp 22, tabela rutare ruter 3: 5    2   4
+ Timp 22, tabela rutare ruter 3: 6    3   4
+ Timp 22, tabela rutare ruter 3: 7    4   4
+ Timp 22, tabela rutare ruter 3: 8    5   4
+ Timp 22, tabela rutare ruter 3: 9    6   4
+ Timp 22, tabela rutare ruter 4
+ Timp 22, tabela rutare ruter 4: 0    4   3
+ Timp 22, tabela rutare ruter 4: 1    3   3
+ Timp 22, tabela rutare ruter 4: 2    2   3
+ Timp 22, tabela rutare ruter 4: 3    1   3
+ Timp 22, tabela rutare ruter 4: 4    0  -1
+ Timp 22, tabela rutare ruter 4: 5    1   5
+ Timp 22, tabela rutare ruter 4: 6    2   5
+ Timp 22, tabela rutare ruter 4: 7    3   5
+ Timp 22, tabela rutare ruter 4: 8    4   5
+ Timp 22, tabela rutare ruter 4: 9    5   5
+ Timp 22, tabela rutare ruter 5
+ Timp 22, tabela rutare ruter 5: 0    5   4
+ Timp 22, tabela rutare ruter 5: 1    4   4
+ Timp 22, tabela rutare ruter 5: 2    3   4
+ Timp 22, tabela rutare ruter 5: 3    2   4
+ Timp 22, tabela rutare ruter 5: 4    1   4
+ Timp 22, tabela rutare ruter 5: 5    0  -1
+ Timp 22, tabela rutare ruter 5: 6    1   6
+ Timp 22, tabela rutare ruter 5: 7    2   6
+ Timp 22, tabela rutare ruter 5: 8    3   6
+ Timp 22, tabela rutare ruter 5: 9    4   6
+ Timp 22, tabela rutare ruter 6
+ Timp 22, tabela rutare ruter 6: 0    6   5
+ Timp 22, tabela rutare ruter 6: 1    5   5
+ Timp 22, tabela rutare ruter 6: 2    4   5
+ Timp 22, tabela rutare ruter 6: 3    3   5
+ Timp 22, tabela rutare ruter 6: 4    2   5
+ Timp 22, tabela rutare ruter 6: 5    1   5
+ Timp 22, tabela rutare ruter 6: 6    0  -1
+ Timp 22, tabela rutare ruter 6: 7    1   7
+ Timp 22, tabela rutare ruter 6: 8    2   7
+ Timp 22, tabela rutare ruter 6: 9    3   7
+ Timp 22, tabela rutare ruter 7
+ Timp 22, tabela rutare ruter 7: 0    7   6
+ Timp 22, tabela rutare ruter 7: 1    6   6
+ Timp 22, tabela rutare ruter 7: 2    5   6
+ Timp 22, tabela rutare ruter 7: 3    4   6
+ Timp 22, tabela rutare ruter 7: 4    3   6
+ Timp 22, tabela rutare ruter 7: 5    2   6
+ Timp 22, tabela rutare ruter 7: 6    1   6
+ Timp 22, tabela rutare ruter 7: 7    0  -1
+ Timp 22, tabela rutare ruter 7: 8    1   8
+ Timp 22, tabela rutare ruter 7: 9    2   8
+ Timp 22, tabela rutare ruter 8
+ Timp 22, tabela rutare ruter 8: 0    8   7
+ Timp 22, tabela rutare ruter 8: 1    7   7
+ Timp 22, tabela rutare ruter 8: 2    6   7
+ Timp 22, tabela rutare ruter 8: 3    5   7
+ Timp 22, tabela rutare ruter 8: 4    4   7
+ Timp 22, tabela rutare ruter 8: 5    3   7
+ Timp 22, tabela rutare ruter 8: 6    2   7
+ Timp 22, tabela rutare ruter 8: 7    1   7
+ Timp 22, tabela rutare ruter 8: 8    0  -1
+ Timp 22, tabela rutare ruter 8: 9    1   9
+ Timp 22, tabela rutare ruter 9
+ Timp 22, tabela rutare ruter 9: 0    9   8
+ Timp 22, tabela rutare ruter 9: 1    8   8
+ Timp 22, tabela rutare ruter 9: 2    7   8
+ Timp 22, tabela rutare ruter 9: 3    6   8
+ Timp 22, tabela rutare ruter 9: 4    5   8
+ Timp 22, tabela rutare ruter 9: 5    4   8
+ Timp 22, tabela rutare ruter 9: 6    3   8
+ Timp 22, tabela rutare ruter 9: 7    2   8
+ Timp 22, tabela rutare ruter 9: 8    1   8
+ Timp 22, tabela rutare ruter 9: 9    0  -1
+ Timp 23, tabela rutare ruter 0
+ Timp 23, tabela rutare ruter 0: 0    0  -1
+ Timp 23, tabela rutare ruter 0: 1    1   1
+ Timp 23, tabela rutare ruter 0: 2    2   1
+ Timp 23, tabela rutare ruter 0: 3    3   1
+ Timp 23, tabela rutare ruter 0: 4    4   1
+ Timp 23, tabela rutare ruter 0: 5    5   1
+ Timp 23, tabela rutare ruter 0: 6    6   1
+ Timp 23, tabela rutare ruter 0: 7    7   1
+ Timp 23, tabela rutare ruter 0: 8    8   1
+ Timp 23, tabela rutare ruter 0: 9  999  -1
+ Timp 23, tabela rutare ruter 1
+ Timp 23, tabela rutare ruter 1: 0    1   0
+ Timp 23, tabela rutare ruter 1: 1    0  -1
+ Timp 23, tabela rutare ruter 1: 2    1   2
+ Timp 23, tabela rutare ruter 1: 3    2   2
+ Timp 23, tabela rutare ruter 1: 4    3   2
+ Timp 23, tabela rutare ruter 1: 5    4   2
+ Timp 23, tabela rutare ruter 1: 6    5   2
+ Timp 23, tabela rutare ruter 1: 7    6   2
+ Timp 23, tabela rutare ruter 1: 8    7   2
+ Timp 23, tabela rutare ruter 1: 9  999  -1
+ Timp 23, tabela rutare ruter 2
+ Timp 23, tabela rutare ruter 2: 0    2   1
+ Timp 23, tabela rutare ruter 2: 1    1   1
+ Timp 23, tabela rutare ruter 2: 2    0  -1
+ Timp 23, tabela rutare ruter 2: 3    1   3
+ Timp 23, tabela rutare ruter 2: 4    2   3
+ Timp 23, tabela rutare ruter 2: 5    3   3
+ Timp 23, tabela rutare ruter 2: 6    4   3
+ Timp 23, tabela rutare ruter 2: 7    5   3
+ Timp 23, tabela rutare ruter 2: 8    6   3
+ Timp 23, tabela rutare ruter 2: 9    7   3
+ Timp 23, tabela rutare ruter 3
+ Timp 23, tabela rutare ruter 3: 0    3   2
+ Timp 23, tabela rutare ruter 3: 1    2   2
+ Timp 23, tabela rutare ruter 3: 2    1   2
+ Timp 23, tabela rutare ruter 3: 3    0  -1
+ Timp 23, tabela rutare ruter 3: 4    1   4
+ Timp 23, tabela rutare ruter 3: 5    2   4
+ Timp 23, tabela rutare ruter 3: 6    3   4
+ Timp 23, tabela rutare ruter 3: 7    4   4
+ Timp 23, tabela rutare ruter 3: 8    5   4
+ Timp 23, tabela rutare ruter 3: 9    6   4
+ Timp 23, tabela rutare ruter 4
+ Timp 23, tabela rutare ruter 4: 0    4   3
+ Timp 23, tabela rutare ruter 4: 1    3   3
+ Timp 23, tabela rutare ruter 4: 2    2   3
+ Timp 23, tabela rutare ruter 4: 3    1   3
+ Timp 23, tabela rutare ruter 4: 4    0  -1
+ Timp 23, tabela rutare ruter 4: 5    1   5
+ Timp 23, tabela rutare ruter 4: 6    2   5
+ Timp 23, tabela rutare ruter 4: 7    3   5
+ Timp 23, tabela rutare ruter 4: 8    4   5
+ Timp 23, tabela rutare ruter 4: 9    5   5
+ Timp 23, tabela rutare ruter 5
+ Timp 23, tabela rutare ruter 5: 0    5   4
+ Timp 23, tabela rutare ruter 5: 1    4   4
+ Timp 23, tabela rutare ruter 5: 2    3   4
+ Timp 23, tabela rutare ruter 5: 3    2   4
+ Timp 23, tabela rutare ruter 5: 4    1   4
+ Timp 23, tabela rutare ruter 5: 5    0  -1
+ Timp 23, tabela rutare ruter 5: 6    1   6
+ Timp 23, tabela rutare ruter 5: 7    2   6
+ Timp 23, tabela rutare ruter 5: 8    3   6
+ Timp 23, tabela rutare ruter 5: 9    4   6
+ Timp 23, tabela rutare ruter 6
+ Timp 23, tabela rutare ruter 6: 0    6   5
+ Timp 23, tabela rutare ruter 6: 1    5   5
+ Timp 23, tabela rutare ruter 6: 2    4   5
+ Timp 23, tabela rutare ruter 6: 3    3   5
+ Timp 23, tabela rutare ruter 6: 4    2   5
+ Timp 23, tabela rutare ruter 6: 5    1   5
+ Timp 23, tabela rutare ruter 6: 6    0  -1
+ Timp 23, tabela rutare ruter 6: 7    1   7
+ Timp 23, tabela rutare ruter 6: 8    2   7
+ Timp 23, tabela rutare ruter 6: 9    3   7
+ Timp 23, tabela rutare ruter 7
+ Timp 23, tabela rutare ruter 7: 0    7   6
+ Timp 23, tabela rutare ruter 7: 1    6   6
+ Timp 23, tabela rutare ruter 7: 2    5   6
+ Timp 23, tabela rutare ruter 7: 3    4   6
+ Timp 23, tabela rutare ruter 7: 4    3   6
+ Timp 23, tabela rutare ruter 7: 5    2   6
+ Timp 23, tabela rutare ruter 7: 6    1   6
+ Timp 23, tabela rutare ruter 7: 7    0  -1
+ Timp 23, tabela rutare ruter 7: 8    1   8
+ Timp 23, tabela rutare ruter 7: 9    2   8
+ Timp 23, tabela rutare ruter 8
+ Timp 23, tabela rutare ruter 8: 0    8   7
+ Timp 23, tabela rutare ruter 8: 1    7   7
+ Timp 23, tabela rutare ruter 8: 2    6   7
+ Timp 23, tabela rutare ruter 8: 3    5   7
+ Timp 23, tabela rutare ruter 8: 4    4   7
+ Timp 23, tabela rutare ruter 8: 5    3   7
+ Timp 23, tabela rutare ruter 8: 6    2   7
+ Timp 23, tabela rutare ruter 8: 7    1   7
+ Timp 23, tabela rutare ruter 8: 8    0  -1
+ Timp 23, tabela rutare ruter 8: 9    1   9
+ Timp 23, tabela rutare ruter 9
+ Timp 23, tabela rutare ruter 9: 0    9   8
+ Timp 23, tabela rutare ruter 9: 1    8   8
+ Timp 23, tabela rutare ruter 9: 2    7   8
+ Timp 23, tabela rutare ruter 9: 3    6   8
+ Timp 23, tabela rutare ruter 9: 4    5   8
+ Timp 23, tabela rutare ruter 9: 5    4   8
+ Timp 23, tabela rutare ruter 9: 6    3   8
+ Timp 23, tabela rutare ruter 9: 7    2   8
+ Timp 23, tabela rutare ruter 9: 8    1   8
+ Timp 23, tabela rutare ruter 9: 9    0  -1
+ Timp 24, tabela rutare ruter 0
+ Timp 24, tabela rutare ruter 0: 0    0  -1
+ Timp 24, tabela rutare ruter 0: 1    1   1
+ Timp 24, tabela rutare ruter 0: 2    2   1
+ Timp 24, tabela rutare ruter 0: 3    3   1
+ Timp 24, tabela rutare ruter 0: 4    4   1
+ Timp 24, tabela rutare ruter 0: 5    5   1
+ Timp 24, tabela rutare ruter 0: 6    6   1
+ Timp 24, tabela rutare ruter 0: 7    7   1
+ Timp 24, tabela rutare ruter 0: 8    8   1
+ Timp 24, tabela rutare ruter 0: 9  999  -1
+ Timp 24, tabela rutare ruter 1
+ Timp 24, tabela rutare ruter 1: 0    1   0
+ Timp 24, tabela rutare ruter 1: 1    0  -1
+ Timp 24, tabela rutare ruter 1: 2    1   2
+ Timp 24, tabela rutare ruter 1: 3    2   2
+ Timp 24, tabela rutare ruter 1: 4    3   2
+ Timp 24, tabela rutare ruter 1: 5    4   2
+ Timp 24, tabela rutare ruter 1: 6    5   2
+ Timp 24, tabela rutare ruter 1: 7    6   2
+ Timp 24, tabela rutare ruter 1: 8    7   2
+ Timp 24, tabela rutare ruter 1: 9    8   2
+ Timp 24, tabela rutare ruter 2
+ Timp 24, tabela rutare ruter 2: 0    2   1
+ Timp 24, tabela rutare ruter 2: 1    1   1
+ Timp 24, tabela rutare ruter 2: 2    0  -1
+ Timp 24, tabela rutare ruter 2: 3    1   3
+ Timp 24, tabela rutare ruter 2: 4    2   3
+ Timp 24, tabela rutare ruter 2: 5    3   3
+ Timp 24, tabela rutare ruter 2: 6    4   3
+ Timp 24, tabela rutare ruter 2: 7    5   3
+ Timp 24, tabela rutare ruter 2: 8    6   3
+ Timp 24, tabela rutare ruter 2: 9    7   3
+ Timp 24, tabela rutare ruter 3
+ Timp 24, tabela rutare ruter 3: 0    3   2
+ Timp 24, tabela rutare ruter 3: 1    2   2
+ Timp 24, tabela rutare ruter 3: 2    1   2
+ Timp 24, tabela rutare ruter 3: 3    0  -1
+ Timp 24, tabela rutare ruter 3: 4    1   4
+ Timp 24, tabela rutare ruter 3: 5    2   4
+ Timp 24, tabela rutare ruter 3: 6    3   4
+ Timp 24, tabela rutare ruter 3: 7    4   4
+ Timp 24, tabela rutare ruter 3: 8    5   4
+ Timp 24, tabela rutare ruter 3: 9    6   4
+ Timp 24, tabela rutare ruter 4
+ Timp 24, tabela rutare ruter 4: 0    4   3
+ Timp 24, tabela rutare ruter 4: 1    3   3
+ Timp 24, tabela rutare ruter 4: 2    2   3
+ Timp 24, tabela rutare ruter 4: 3    1   3
+ Timp 24, tabela rutare ruter 4: 4    0  -1
+ Timp 24, tabela rutare ruter 4: 5    1   5
+ Timp 24, tabela rutare ruter 4: 6    2   5
+ Timp 24, tabela rutare ruter 4: 7    3   5
+ Timp 24, tabela rutare ruter 4: 8    4   5
+ Timp 24, tabela rutare ruter 4: 9    5   5
+ Timp 24, tabela rutare ruter 5
+ Timp 24, tabela rutare ruter 5: 0    5   4
+ Timp 24, tabela rutare ruter 5: 1    4   4
+ Timp 24, tabela rutare ruter 5: 2    3   4
+ Timp 24, tabela rutare ruter 5: 3    2   4
+ Timp 24, tabela rutare ruter 5: 4    1   4
+ Timp 24, tabela rutare ruter 5: 5    0  -1
+ Timp 24, tabela rutare ruter 5: 6    1   6
+ Timp 24, tabela rutare ruter 5: 7    2   6
+ Timp 24, tabela rutare ruter 5: 8    3   6
+ Timp 24, tabela rutare ruter 5: 9    4   6
+ Timp 24, tabela rutare ruter 6
+ Timp 24, tabela rutare ruter 6: 0    6   5
+ Timp 24, tabela rutare ruter 6: 1    5   5
+ Timp 24, tabela rutare ruter 6: 2    4   5
+ Timp 24, tabela rutare ruter 6: 3    3   5
+ Timp 24, tabela rutare ruter 6: 4    2   5
+ Timp 24, tabela rutare ruter 6: 5    1   5
+ Timp 24, tabela rutare ruter 6: 6    0  -1
+ Timp 24, tabela rutare ruter 6: 7    1   7
+ Timp 24, tabela rutare ruter 6: 8    2   7
+ Timp 24, tabela rutare ruter 6: 9    3   7
+ Timp 24, tabela rutare ruter 7
+ Timp 24, tabela rutare ruter 7: 0    7   6
+ Timp 24, tabela rutare ruter 7: 1    6   6
+ Timp 24, tabela rutare ruter 7: 2    5   6
+ Timp 24, tabela rutare ruter 7: 3    4   6
+ Timp 24, tabela rutare ruter 7: 4    3   6
+ Timp 24, tabela rutare ruter 7: 5    2   6
+ Timp 24, tabela rutare ruter 7: 6    1   6
+ Timp 24, tabela rutare ruter 7: 7    0  -1
+ Timp 24, tabela rutare ruter 7: 8    1   8
+ Timp 24, tabela rutare ruter 7: 9    2   8
+ Timp 24, tabela rutare ruter 8
+ Timp 24, tabela rutare ruter 8: 0    8   7
+ Timp 24, tabela rutare ruter 8: 1    7   7
+ Timp 24, tabela rutare ruter 8: 2    6   7
+ Timp 24, tabela rutare ruter 8: 3    5   7
+ Timp 24, tabela rutare ruter 8: 4    4   7
+ Timp 24, tabela rutare ruter 8: 5    3   7
+ Timp 24, tabela rutare ruter 8: 6    2   7
+ Timp 24, tabela rutare ruter 8: 7    1   7
+ Timp 24, tabela rutare ruter 8: 8    0  -1
+ Timp 24, tabela rutare ruter 8: 9    1   9
+ Timp 24, tabela rutare ruter 9
+ Timp 24, tabela rutare ruter 9: 0    9   8
+ Timp 24, tabela rutare ruter 9: 1    8   8
+ Timp 24, tabela rutare ruter 9: 2    7   8
+ Timp 24, tabela rutare ruter 9: 3    6   8
+ Timp 24, tabela rutare ruter 9: 4    5   8
+ Timp 24, tabela rutare ruter 9: 5    4   8
+ Timp 24, tabela rutare ruter 9: 6    3   8
+ Timp 24, tabela rutare ruter 9: 7    2   8
+ Timp 24, tabela rutare ruter 9: 8    1   8
+ Timp 24, tabela rutare ruter 9: 9    0  -1
+ Timp 25, tabela rutare ruter 0
+ Timp 25, tabela rutare ruter 0:0    0  -1
+ Timp 25, tabela rutare ruter 0:1    1   1
+ Timp 25, tabela rutare ruter 0:2    2   1
+ Timp 25, tabela rutare ruter 0:3    3   1
+ Timp 25, tabela rutare ruter 0:4    4   1
+ Timp 25, tabela rutare ruter 0:5    5   1
+ Timp 25, tabela rutare ruter 0:6    6   1
+ Timp 25, tabela rutare ruter 0:7    7   1
+ Timp 25, tabela rutare ruter 0:8    8   1
+ Timp 25, tabela rutare ruter 0:9    9   1
+ Timp 25, tabela rutare ruter 1
+ Timp 25, tabela rutare ruter 1:0    1   0
+ Timp 25, tabela rutare ruter 1:1    0  -1
+ Timp 25, tabela rutare ruter 1:2    1   2
+ Timp 25, tabela rutare ruter 1:3    2   2
+ Timp 25, tabela rutare ruter 1:4    3   2
+ Timp 25, tabela rutare ruter 1:5    4   2
+ Timp 25, tabela rutare ruter 1:6    5   2
+ Timp 25, tabela rutare ruter 1:7    6   2
+ Timp 25, tabela rutare ruter 1:8    7   2
+ Timp 25, tabela rutare ruter 1:9    8   2
+ Timp 25, tabela rutare ruter 2
+ Timp 25, tabela rutare ruter 2:0    2   1
+ Timp 25, tabela rutare ruter 2:1    1   1
+ Timp 25, tabela rutare ruter 2:2    0  -1
+ Timp 25, tabela rutare ruter 2:3    1   3
+ Timp 25, tabela rutare ruter 2:4    2   3
+ Timp 25, tabela rutare ruter 2:5    3   3
+ Timp 25, tabela rutare ruter 2:6    4   3
+ Timp 25, tabela rutare ruter 2:7    5   3
+ Timp 25, tabela rutare ruter 2:8    6   3
+ Timp 25, tabela rutare ruter 2:9    7   3
+ Timp 25, tabela rutare ruter 3
+ Timp 25, tabela rutare ruter 3:0    3   2
+ Timp 25, tabela rutare ruter 3:1    2   2
+ Timp 25, tabela rutare ruter 3:2    1   2
+ Timp 25, tabela rutare ruter 3:3    0  -1
+ Timp 25, tabela rutare ruter 3:4    1   4
+ Timp 25, tabela rutare ruter 3:5    2   4
+ Timp 25, tabela rutare ruter 3:6    3   4
+ Timp 25, tabela rutare ruter 3:7    4   4
+ Timp 25, tabela rutare ruter 3:8    5   4
+ Timp 25, tabela rutare ruter 3:9    6   4
+ Timp 25, tabela rutare ruter 4
+ Timp 25, tabela rutare ruter 4:0    4   3
+ Timp 25, tabela rutare ruter 4:1    3   3
+ Timp 25, tabela rutare ruter 4:2    2   3
+ Timp 25, tabela rutare ruter 4:3    1   3
+ Timp 25, tabela rutare ruter 4:4    0  -1
+ Timp 25, tabela rutare ruter 4:5    1   5
+ Timp 25, tabela rutare ruter 4:6    2   5
+ Timp 25, tabela rutare ruter 4:7    3   5
+ Timp 25, tabela rutare ruter 4:8    4   5
+ Timp 25, tabela rutare ruter 4:9    5   5
+ Timp 25, tabela rutare ruter 5
+ Timp 25, tabela rutare ruter 5:0    5   4
+ Timp 25, tabela rutare ruter 5:1    4   4
+ Timp 25, tabela rutare ruter 5:2    3   4
+ Timp 25, tabela rutare ruter 5:3    2   4
+ Timp 25, tabela rutare ruter 5:4    1   4
+ Timp 25, tabela rutare ruter 5:5    0  -1
+ Timp 25, tabela rutare ruter 5:6    1   6
+ Timp 25, tabela rutare ruter 5:7    2   6
+ Timp 25, tabela rutare ruter 5:8    3   6
+ Timp 25, tabela rutare ruter 5:9    4   6
+ Timp 25, tabela rutare ruter 6
+ Timp 25, tabela rutare ruter 6:0    6   5
+ Timp 25, tabela rutare ruter 6:1    5   5
+ Timp 25, tabela rutare ruter 6:2    4   5
+ Timp 25, tabela rutare ruter 6:3    3   5
+ Timp 25, tabela rutare ruter 6:4    2   5
+ Timp 25, tabela rutare ruter 6:5    1   5
+ Timp 25, tabela rutare ruter 6:6    0  -1
+ Timp 25, tabela rutare ruter 6:7    1   7
+ Timp 25, tabela rutare ruter 6:8    2   7
+ Timp 25, tabela rutare ruter 6:9    3   7
+ Timp 25, tabela rutare ruter 7
+ Timp 25, tabela rutare ruter 7:0    7   6
+ Timp 25, tabela rutare ruter 7:1    6   6
+ Timp 25, tabela rutare ruter 7:2    5   6
+ Timp 25, tabela rutare ruter 7:3    4   6
+ Timp 25, tabela rutare ruter 7:4    3   6
+ Timp 25, tabela rutare ruter 7:5    2   6
+ Timp 25, tabela rutare ruter 7:6    1   6
+ Timp 25, tabela rutare ruter 7:7    0  -1
+ Timp 25, tabela rutare ruter 7:8    1   8
+ Timp 25, tabela rutare ruter 7:9    2   8
+ Timp 25, tabela rutare ruter 8
+ Timp 25, tabela rutare ruter 8:0    8   7
+ Timp 25, tabela rutare ruter 8:1    7   7
+ Timp 25, tabela rutare ruter 8:2    6   7
+ Timp 25, tabela rutare ruter 8:3    5   7
+ Timp 25, tabela rutare ruter 8:4    4   7
+ Timp 25, tabela rutare ruter 8:5    3   7
+ Timp 25, tabela rutare ruter 8:6    2   7
+ Timp 25, tabela rutare ruter 8:7    1   7
+ Timp 25, tabela rutare ruter 8:8    0  -1
+ Timp 25, tabela rutare ruter 8:9    1   9
+ Timp 25, tabela rutare ruter 9
+ Timp 25, tabela rutare ruter 9:0    9   8
+ Timp 25, tabela rutare ruter 9:1    8   8
+ Timp 25, tabela rutare ruter 9:2    7   8
+ Timp 25, tabela rutare ruter 9:3    6   8
+ Timp 25, tabela rutare ruter 9:4    5   8
+ Timp 25, tabela rutare ruter 9:5    4   8
+ Timp 25, tabela rutare ruter 9:6    3   8
+ Timp 25, tabela rutare ruter 9:7    2   8
+ Timp 25, tabela rutare ruter 9:8    1   8
+ Timp 25, tabela rutare ruter 9:9    0  -1
+ Timp 2, tabela rutare ruter 0
+ Timp 2, tabela rutare ruter 0: 0    0  -1
+ Timp 2, tabela rutare ruter 0: 1    1   1
+ Timp 2, tabela rutare ruter 0: 2  999  -1
+ Timp 2, tabela rutare ruter 0: 3  999  -1
+ Timp 2, tabela rutare ruter 0: 4  999  -1
+ Timp 2, tabela rutare ruter 0: 5  999  -1
+ Timp 2, tabela rutare ruter 0: 6  999  -1
+ Timp 2, tabela rutare ruter 0: 7  999  -1
+ Timp 2, tabela rutare ruter 0: 8  999  -1
+ Timp 2, tabela rutare ruter 0: 9  999  -1
+ Timp 2, tabela rutare ruter 1
+ Timp 2, tabela rutare ruter 1: 0    1   0
+ Timp 2, tabela rutare ruter 1: 1    0  -1
+ Timp 2, tabela rutare ruter 1: 2  999  -1
+ Timp 2, tabela rutare ruter 1: 3  999  -1
+ Timp 2, tabela rutare ruter 1: 4  999  -1
+ Timp 2, tabela rutare ruter 1: 5  999  -1
+ Timp 2, tabela rutare ruter 1: 6  999  -1
+ Timp 2, tabela rutare ruter 1: 7  999  -1
+ Timp 2, tabela rutare ruter 1: 8  999  -1
+ Timp 2, tabela rutare ruter 1: 9  999  -1
+ Timp 2, tabela rutare ruter 2
+ Timp 2, tabela rutare ruter 2: 0  999  -1
+ Timp 2, tabela rutare ruter 2: 1  999  -1
+ Timp 2, tabela rutare ruter 2: 2    0  -1
+ Timp 2, tabela rutare ruter 2: 3  999  -1
+ Timp 2, tabela rutare ruter 2: 4  999  -1
+ Timp 2, tabela rutare ruter 2: 5  999  -1
+ Timp 2, tabela rutare ruter 2: 6  999  -1
+ Timp 2, tabela rutare ruter 2: 7  999  -1
+ Timp 2, tabela rutare ruter 2: 8  999  -1
+ Timp 2, tabela rutare ruter 2: 9  999  -1
+ Timp 3, tabela rutare ruter 0
+ Timp 3, tabela rutare ruter 0: 0    0  -1
+ Timp 3, tabela rutare ruter 0: 1    1   1
+ Timp 3, tabela rutare ruter 0: 2  999  -1
+ Timp 3, tabela rutare ruter 0: 3  999  -1
+ Timp 3, tabela rutare ruter 0: 4  999  -1
+ Timp 3, tabela rutare ruter 0: 5  999  -1
+ Timp 3, tabela rutare ruter 0: 6  999  -1
+ Timp 3, tabela rutare ruter 0: 7  999  -1
+ Timp 3, tabela rutare ruter 0: 8  999  -1
+ Timp 3, tabela rutare ruter 0: 9  999  -1
+ Timp 3, tabela rutare ruter 1
+ Timp 3, tabela rutare ruter 1: 0    1   0
+ Timp 3, tabela rutare ruter 1: 1    0  -1
+ Timp 3, tabela rutare ruter 1: 2    1   2
+ Timp 3, tabela rutare ruter 1: 3  999  -1
+ Timp 3, tabela rutare ruter 1: 4  999  -1
+ Timp 3, tabela rutare ruter 1: 5  999  -1
+ Timp 3, tabela rutare ruter 1: 6  999  -1
+ Timp 3, tabela rutare ruter 1: 7  999  -1
+ Timp 3, tabela rutare ruter 1: 8  999  -1
+ Timp 3, tabela rutare ruter 1: 9  999  -1
+ Timp 3, tabela rutare ruter 2
+ Timp 3, tabela rutare ruter 2: 0  999  -1
+ Timp 3, tabela rutare ruter 2: 1  999  -1
+ Timp 3, tabela rutare ruter 2: 2    0  -1
+ Timp 3, tabela rutare ruter 2: 3  999  -1
+ Timp 3, tabela rutare ruter 2: 4  999  -1
+ Timp 3, tabela rutare ruter 2: 5  999  -1
+ Timp 3, tabela rutare ruter 2: 6  999  -1
+ Timp 3, tabela rutare ruter 2: 7  999  -1
+ Timp 3, tabela rutare ruter 2: 8  999  -1
+ Timp 3, tabela rutare ruter 2: 9  999  -1
+ Timp 4, tabela rutare ruter 0
+ Timp 4, tabela rutare ruter 0: 0    0  -1
+ Timp 4, tabela rutare ruter 0: 1    1   1
+ Timp 4, tabela rutare ruter 0: 2    2   1
+ Timp 4, tabela rutare ruter 0: 3  999  -1
+ Timp 4, tabela rutare ruter 0: 4  999  -1
+ Timp 4, tabela rutare ruter 0: 5  999  -1
+ Timp 4, tabela rutare ruter 0: 6  999  -1
+ Timp 4, tabela rutare ruter 0: 7  999  -1
+ Timp 4, tabela rutare ruter 0: 8  999  -1
+ Timp 4, tabela rutare ruter 0: 9  999  -1
+ Timp 4, tabela rutare ruter 1
+ Timp 4, tabela rutare ruter 1: 0    1   0
+ Timp 4, tabela rutare ruter 1: 1    0  -1
+ Timp 4, tabela rutare ruter 1: 2    1   2
+ Timp 4, tabela rutare ruter 1: 3  999  -1
+ Timp 4, tabela rutare ruter 1: 4  999  -1
+ Timp 4, tabela rutare ruter 1: 5  999  -1
+ Timp 4, tabela rutare ruter 1: 6  999  -1
+ Timp 4, tabela rutare ruter 1: 7  999  -1
+ Timp 4, tabela rutare ruter 1: 8  999  -1
+ Timp 4, tabela rutare ruter 1: 9  999  -1
+ Timp 4, tabela rutare ruter 2
+ Timp 4, tabela rutare ruter 2: 0    2   1
+ Timp 4, tabela rutare ruter 2: 1    1   1
+ Timp 4, tabela rutare ruter 2: 2    0  -1
+ Timp 4, tabela rutare ruter 2: 3  999  -1
+ Timp 4, tabela rutare ruter 2: 4  999  -1
+ Timp 4, tabela rutare ruter 2: 5  999  -1
+ Timp 4, tabela rutare ruter 2: 6  999  -1
+ Timp 4, tabela rutare ruter 2: 7  999  -1
+ Timp 4, tabela rutare ruter 2: 8  999  -1
+ Timp 4, tabela rutare ruter 2: 9  999  -1
+ Timp 4, tabela rutare ruter 3
+ Timp 4, tabela rutare ruter 3: 0  999  -1
+ Timp 4, tabela rutare ruter 3: 1  999  -1
+ Timp 4, tabela rutare ruter 3: 2  999  -1
+ Timp 4, tabela rutare ruter 3: 3    0  -1
+ Timp 4, tabela rutare ruter 3: 4  999  -1
+ Timp 4, tabela rutare ruter 3: 5  999  -1
+ Timp 4, tabela rutare ruter 3: 6  999  -1
+ Timp 4, tabela rutare ruter 3: 7  999  -1
+ Timp 4, tabela rutare ruter 3: 8  999  -1
+ Timp 4, tabela rutare ruter 3: 9  999  -1
+ Timp 5, tabela rutare ruter 0
+ Timp 5, tabela rutare ruter 0: 0    0  -1
+ Timp 5, tabela rutare ruter 0: 1    1   1
+ Timp 5, tabela rutare ruter 0: 2    2   1
+ Timp 5, tabela rutare ruter 0: 3  999  -1
+ Timp 5, tabela rutare ruter 0: 4  999  -1
+ Timp 5, tabela rutare ruter 0: 5  999  -1
+ Timp 5, tabela rutare ruter 0: 6  999  -1
+ Timp 5, tabela rutare ruter 0: 7  999  -1
+ Timp 5, tabela rutare ruter 0: 8  999  -1
+ Timp 5, tabela rutare ruter 0: 9  999  -1
+ Timp 5, tabela rutare ruter 1
+ Timp 5, tabela rutare ruter 1: 0    1   0
+ Timp 5, tabela rutare ruter 1: 1    0  -1
+ Timp 5, tabela rutare ruter 1: 2    1   2
+ Timp 5, tabela rutare ruter 1: 3  999  -1
+ Timp 5, tabela rutare ruter 1: 4  999  -1
+ Timp 5, tabela rutare ruter 1: 5  999  -1
+ Timp 5, tabela rutare ruter 1: 6  999  -1
+ Timp 5, tabela rutare ruter 1: 7  999  -1
+ Timp 5, tabela rutare ruter 1: 8  999  -1
+ Timp 5, tabela rutare ruter 1: 9  999  -1
+ Timp 5, tabela rutare ruter 2
+ Timp 5, tabela rutare ruter 2: 0    2   1
+ Timp 5, tabela rutare ruter 2: 1    1   1
+ Timp 5, tabela rutare ruter 2: 2    0  -1
+ Timp 5, tabela rutare ruter 2: 3    1   3
+ Timp 5, tabela rutare ruter 2: 4  999  -1
+ Timp 5, tabela rutare ruter 2: 5  999  -1
+ Timp 5, tabela rutare ruter 2: 6  999  -1
+ Timp 5, tabela rutare ruter 2: 7  999  -1
+ Timp 5, tabela rutare ruter 2: 8  999  -1
+ Timp 5, tabela rutare ruter 2: 9  999  -1
+ Timp 5, tabela rutare ruter 3
+ Timp 5, tabela rutare ruter 3: 0  999  -1
+ Timp 5, tabela rutare ruter 3: 1  999  -1
+ Timp 5, tabela rutare ruter 3: 2  999  -1
+ Timp 5, tabela rutare ruter 3: 3    0  -1
+ Timp 5, tabela rutare ruter 3: 4  999  -1
+ Timp 5, tabela rutare ruter 3: 5  999  -1
+ Timp 5, tabela rutare ruter 3: 6  999  -1
+ Timp 5, tabela rutare ruter 3: 7  999  -1
+ Timp 5, tabela rutare ruter 3: 8  999  -1
+ Timp 5, tabela rutare ruter 3: 9  999  -1
+ Timp 6, tabela rutare ruter 0
+ Timp 6, tabela rutare ruter 0: 0    0  -1
+ Timp 6, tabela rutare ruter 0: 1    1   1
+ Timp 6, tabela rutare ruter 0: 2    2   1
+ Timp 6, tabela rutare ruter 0: 3  999  -1
+ Timp 6, tabela rutare ruter 0: 4  999  -1
+ Timp 6, tabela rutare ruter 0: 5  999  -1
+ Timp 6, tabela rutare ruter 0: 6  999  -1
+ Timp 6, tabela rutare ruter 0: 7  999  -1
+ Timp 6, tabela rutare ruter 0: 8  999  -1
+ Timp 6, tabela rutare ruter 0: 9  999  -1
+ Timp 6, tabela rutare ruter 1
+ Timp 6, tabela rutare ruter 1: 0    1   0
+ Timp 6, tabela rutare ruter 1: 1    0  -1
+ Timp 6, tabela rutare ruter 1: 2    1   2
+ Timp 6, tabela rutare ruter 1: 3    2   2
+ Timp 6, tabela rutare ruter 1: 4  999  -1
+ Timp 6, tabela rutare ruter 1: 5  999  -1
+ Timp 6, tabela rutare ruter 1: 6  999  -1
+ Timp 6, tabela rutare ruter 1: 7  999  -1
+ Timp 6, tabela rutare ruter 1: 8  999  -1
+ Timp 6, tabela rutare ruter 1: 9  999  -1
+ Timp 6, tabela rutare ruter 2
+ Timp 6, tabela rutare ruter 2: 0    2   1
+ Timp 6, tabela rutare ruter 2: 1    1   1
+ Timp 6, tabela rutare ruter 2: 2    0  -1
+ Timp 6, tabela rutare ruter 2: 3    1   3
+ Timp 6, tabela rutare ruter 2: 4  999  -1
+ Timp 6, tabela rutare ruter 2: 5  999  -1
+ Timp 6, tabela rutare ruter 2: 6  999  -1
+ Timp 6, tabela rutare ruter 2: 7  999  -1
+ Timp 6, tabela rutare ruter 2: 8  999  -1
+ Timp 6, tabela rutare ruter 2: 9  999  -1
+ Timp 6, tabela rutare ruter 3
+ Timp 6, tabela rutare ruter 3: 0    3   2
+ Timp 6, tabela rutare ruter 3: 1    2   2
+ Timp 6, tabela rutare ruter 3: 2    1   2
+ Timp 6, tabela rutare ruter 3: 3    0  -1
+ Timp 6, tabela rutare ruter 3: 4  999  -1
+ Timp 6, tabela rutare ruter 3: 5  999  -1
+ Timp 6, tabela rutare ruter 3: 6  999  -1
+ Timp 6, tabela rutare ruter 3: 7  999  -1
+ Timp 6, tabela rutare ruter 3: 8  999  -1
+ Timp 6, tabela rutare ruter 3: 9  999  -1
+ Timp 6, tabela rutare ruter 4
+ Timp 6, tabela rutare ruter 4: 0  999  -1
+ Timp 6, tabela rutare ruter 4: 1  999  -1
+ Timp 6, tabela rutare ruter 4: 2  999  -1
+ Timp 6, tabela rutare ruter 4: 3  999  -1
+ Timp 6, tabela rutare ruter 4: 4    0  -1
+ Timp 6, tabela rutare ruter 4: 5  999  -1
+ Timp 6, tabela rutare ruter 4: 6  999  -1
+ Timp 6, tabela rutare ruter 4: 7  999  -1
+ Timp 6, tabela rutare ruter 4: 8  999  -1
+ Timp 6, tabela rutare ruter 4: 9  999  -1
+ Timp 7, tabela rutare ruter 0
+ Timp 7, tabela rutare ruter 0: 0    0  -1
+ Timp 7, tabela rutare ruter 0: 1    1   1
+ Timp 7, tabela rutare ruter 0: 2    2   1
+ Timp 7, tabela rutare ruter 0: 3    3   1
+ Timp 7, tabela rutare ruter 0: 4  999  -1
+ Timp 7, tabela rutare ruter 0: 5  999  -1
+ Timp 7, tabela rutare ruter 0: 6  999  -1
+ Timp 7, tabela rutare ruter 0: 7  999  -1
+ Timp 7, tabela rutare ruter 0: 8  999  -1
+ Timp 7, tabela rutare ruter 0: 9  999  -1
+ Timp 7, tabela rutare ruter 1
+ Timp 7, tabela rutare ruter 1: 0    1   0
+ Timp 7, tabela rutare ruter 1: 1    0  -1
+ Timp 7, tabela rutare ruter 1: 2    1   2
+ Timp 7, tabela rutare ruter 1: 3    2   2
+ Timp 7, tabela rutare ruter 1: 4  999  -1
+ Timp 7, tabela rutare ruter 1: 5  999  -1
+ Timp 7, tabela rutare ruter 1: 6  999  -1
+ Timp 7, tabela rutare ruter 1: 7  999  -1
+ Timp 7, tabela rutare ruter 1: 8  999  -1
+ Timp 7, tabela rutare ruter 1: 9  999  -1
+ Timp 7, tabela rutare ruter 2
+ Timp 7, tabela rutare ruter 2: 0    2   1
+ Timp 7, tabela rutare ruter 2: 1    1   1
+ Timp 7, tabela rutare ruter 2: 2    0  -1
+ Timp 7, tabela rutare ruter 2: 3    1   3
+ Timp 7, tabela rutare ruter 2: 4  999  -1
+ Timp 7, tabela rutare ruter 2: 5  999  -1
+ Timp 7, tabela rutare ruter 2: 6  999  -1
+ Timp 7, tabela rutare ruter 2: 7  999  -1
+ Timp 7, tabela rutare ruter 2: 8  999  -1
+ Timp 7, tabela rutare ruter 2: 9  999  -1
+ Timp 7, tabela rutare ruter 3
+ Timp 7, tabela rutare ruter 3: 0    3   2
+ Timp 7, tabela rutare ruter 3: 1    2   2
+ Timp 7, tabela rutare ruter 3: 2    1   2
+ Timp 7, tabela rutare ruter 3: 3    0  -1
+ Timp 7, tabela rutare ruter 3: 4    1   4
+ Timp 7, tabela rutare ruter 3: 5  999  -1
+ Timp 7, tabela rutare ruter 3: 6  999  -1
+ Timp 7, tabela rutare ruter 3: 7  999  -1
+ Timp 7, tabela rutare ruter 3: 8  999  -1
+ Timp 7, tabela rutare ruter 3: 9  999  -1
+ Timp 7, tabela rutare ruter 4
+ Timp 7, tabela rutare ruter 4: 0  999  -1
+ Timp 7, tabela rutare ruter 4: 1  999  -1
+ Timp 7, tabela rutare ruter 4: 2  999  -1
+ Timp 7, tabela rutare ruter 4: 3  999  -1
+ Timp 7, tabela rutare ruter 4: 4    0  -1
+ Timp 7, tabela rutare ruter 4: 5  999  -1
+ Timp 7, tabela rutare ruter 4: 6  999  -1
+ Timp 7, tabela rutare ruter 4: 7  999  -1
+ Timp 7, tabela rutare ruter 4: 8  999  -1
+ Timp 7, tabela rutare ruter 4: 9  999  -1
+ Timp 8, tabela rutare ruter 0
+ Timp 8, tabela rutare ruter 0: 0    0  -1
+ Timp 8, tabela rutare ruter 0: 1    1   1
+ Timp 8, tabela rutare ruter 0: 2    2   1
+ Timp 8, tabela rutare ruter 0: 3    3   1
+ Timp 8, tabela rutare ruter 0: 4  999  -1
+ Timp 8, tabela rutare ruter 0: 5  999  -1
+ Timp 8, tabela rutare ruter 0: 6  999  -1
+ Timp 8, tabela rutare ruter 0: 7  999  -1
+ Timp 8, tabela rutare ruter 0: 8  999  -1
+ Timp 8, tabela rutare ruter 0: 9  999  -1
+ Timp 8, tabela rutare ruter 1
+ Timp 8, tabela rutare ruter 1: 0    1   0
+ Timp 8, tabela rutare ruter 1: 1    0  -1
+ Timp 8, tabela rutare ruter 1: 2    1   2
+ Timp 8, tabela rutare ruter 1: 3    2   2
+ Timp 8, tabela rutare ruter 1: 4  999  -1
+ Timp 8, tabela rutare ruter 1: 5  999  -1
+ Timp 8, tabela rutare ruter 1: 6  999  -1
+ Timp 8, tabela rutare ruter 1: 7  999  -1
+ Timp 8, tabela rutare ruter 1: 8  999  -1
+ Timp 8, tabela rutare ruter 1: 9  999  -1
+ Timp 8, tabela rutare ruter 2
+ Timp 8, tabela rutare ruter 2: 0    2   1
+ Timp 8, tabela rutare ruter 2: 1    1   1
+ Timp 8, tabela rutare ruter 2: 2    0  -1
+ Timp 8, tabela rutare ruter 2: 3    1   3
+ Timp 8, tabela rutare ruter 2: 4    2   3
+ Timp 8, tabela rutare ruter 2: 5  999  -1
+ Timp 8, tabela rutare ruter 2: 6  999  -1
+ Timp 8, tabela rutare ruter 2: 7  999  -1
+ Timp 8, tabela rutare ruter 2: 8  999  -1
+ Timp 8, tabela rutare ruter 2: 9  999  -1
+ Timp 8, tabela rutare ruter 3
+ Timp 8, tabela rutare ruter 3: 0    3   2
+ Timp 8, tabela rutare ruter 3: 1    2   2
+ Timp 8, tabela rutare ruter 3: 2    1   2
+ Timp 8, tabela rutare ruter 3: 3    0  -1
+ Timp 8, tabela rutare ruter 3: 4    1   4
+ Timp 8, tabela rutare ruter 3: 5  999  -1
+ Timp 8, tabela rutare ruter 3: 6  999  -1
+ Timp 8, tabela rutare ruter 3: 7  999  -1
+ Timp 8, tabela rutare ruter 3: 8  999  -1
+ Timp 8, tabela rutare ruter 3: 9  999  -1
+ Timp 8, tabela rutare ruter 4
+ Timp 8, tabela rutare ruter 4: 0    4   3
+ Timp 8, tabela rutare ruter 4: 1    3   3
+ Timp 8, tabela rutare ruter 4: 2    2   3
+ Timp 8, tabela rutare ruter 4: 3    1   3
+ Timp 8, tabela rutare ruter 4: 4    0  -1
+ Timp 8, tabela rutare ruter 4: 5  999  -1
+ Timp 8, tabela rutare ruter 4: 6  999  -1
+ Timp 8, tabela rutare ruter 4: 7  999  -1
+ Timp 8, tabela rutare ruter 4: 8  999  -1
+ Timp 8, tabela rutare ruter 4: 9  999  -1
+ Timp 8, tabela rutare ruter 5
+ Timp 8, tabela rutare ruter 5: 0  999  -1
+ Timp 8, tabela rutare ruter 5: 1  999  -1
+ Timp 8, tabela rutare ruter 5: 2  999  -1
+ Timp 8, tabela rutare ruter 5: 3  999  -1
+ Timp 8, tabela rutare ruter 5: 4  999  -1
+ Timp 8, tabela rutare ruter 5: 5    0  -1
+ Timp 8, tabela rutare ruter 5: 6  999  -1
+ Timp 8, tabela rutare ruter 5: 7  999  -1
+ Timp 8, tabela rutare ruter 5: 8  999  -1
+ Timp 8, tabela rutare ruter 5: 9  999  -1
+ Timp 9, tabela rutare ruter 0
+ Timp 9, tabela rutare ruter 0: 0    0  -1
+ Timp 9, tabela rutare ruter 0: 1    1   1
+ Timp 9, tabela rutare ruter 0: 2    2   1
+ Timp 9, tabela rutare ruter 0: 3    3   1
+ Timp 9, tabela rutare ruter 0: 4  999  -1
+ Timp 9, tabela rutare ruter 0: 5  999  -1
+ Timp 9, tabela rutare ruter 0: 6  999  -1
+ Timp 9, tabela rutare ruter 0: 7  999  -1
+ Timp 9, tabela rutare ruter 0: 8  999  -1
+ Timp 9, tabela rutare ruter 0: 9  999  -1
+ Timp 9, tabela rutare ruter 1
+ Timp 9, tabela rutare ruter 1: 0    1   0
+ Timp 9, tabela rutare ruter 1: 1    0  -1
+ Timp 9, tabela rutare ruter 1: 2    1   2
+ Timp 9, tabela rutare ruter 1: 3    2   2
+ Timp 9, tabela rutare ruter 1: 4    3   2
+ Timp 9, tabela rutare ruter 1: 5  999  -1
+ Timp 9, tabela rutare ruter 1: 6  999  -1
+ Timp 9, tabela rutare ruter 1: 7  999  -1
+ Timp 9, tabela rutare ruter 1: 8  999  -1
+ Timp 9, tabela rutare ruter 1: 9  999  -1
+ Timp 9, tabela rutare ruter 2
+ Timp 9, tabela rutare ruter 2: 0    2   1
+ Timp 9, tabela rutare ruter 2: 1    1   1
+ Timp 9, tabela rutare ruter 2: 2    0  -1
+ Timp 9, tabela rutare ruter 2: 3    1   3
+ Timp 9, tabela rutare ruter 2: 4    2   3
+ Timp 9, tabela rutare ruter 2: 5  999  -1
+ Timp 9, tabela rutare ruter 2: 6  999  -1
+ Timp 9, tabela rutare ruter 2: 7  999  -1
+ Timp 9, tabela rutare ruter 2: 8  999  -1
+ Timp 9, tabela rutare ruter 2: 9  999  -1
+ Timp 9, tabela rutare ruter 3
+ Timp 9, tabela rutare ruter 3: 0    3   2
+ Timp 9, tabela rutare ruter 3: 1    2   2
+ Timp 9, tabela rutare ruter 3: 2    1   2
+ Timp 9, tabela rutare ruter 3: 3    0  -1
+ Timp 9, tabela rutare ruter 3: 4    1   4
+ Timp 9, tabela rutare ruter 3: 5  999  -1
+ Timp 9, tabela rutare ruter 3: 6  999  -1
+ Timp 9, tabela rutare ruter 3: 7  999  -1
+ Timp 9, tabela rutare ruter 3: 8  999  -1
+ Timp 9, tabela rutare ruter 3: 9  999  -1
+ Timp 9, tabela rutare ruter 4
+ Timp 9, tabela rutare ruter 4: 0    4   3
+ Timp 9, tabela rutare ruter 4: 1    3   3
+ Timp 9, tabela rutare ruter 4: 2    2   3
+ Timp 9, tabela rutare ruter 4: 3    1   3
+ Timp 9, tabela rutare ruter 4: 4    0  -1
+ Timp 9, tabela rutare ruter 4: 5    1   5
+ Timp 9, tabela rutare ruter 4: 6  999  -1
+ Timp 9, tabela rutare ruter 4: 7  999  -1
+ Timp 9, tabela rutare ruter 4: 8  999  -1
+ Timp 9, tabela rutare ruter 4: 9  999  -1
+ Timp 9, tabela rutare ruter 5
+ Timp 9, tabela rutare ruter 5: 0  999  -1
+ Timp 9, tabela rutare ruter 5: 1  999  -1
+ Timp 9, tabela rutare ruter 5: 2  999  -1
+ Timp 9, tabela rutare ruter 5: 3  999  -1
+ Timp 9, tabela rutare ruter 5: 4  999  -1
+ Timp 9, tabela rutare ruter 5: 5    0  -1
+ Timp 9, tabela rutare ruter 5: 6  999  -1
+ Timp 9, tabela rutare ruter 5: 7  999  -1
+ Timp 9, tabela rutare ruter 5: 8  999  -1
+ Timp 9, tabela rutare ruter 5: 9  999  -1

@@ -1,0 +1,15 @@
+Despa Diana Alexandra 321CA
+
+TEMA 2 Protocoale de Comunicatii
+
+	Pentru implementarea protocolului de dirijare cu starea legaturilor am pornit de la scheletul de cod.
+	Am creat o noua structura de date - my_paylaod, pentru gestiunea informatiilor pe care am ales sa le includ in payload-ul mesajelor : vectori de costuri pentru vecini, ruter destinatie (pentru M4) si timpul de creare al mesajului.
+	Structurile de date folosite sunt : un vector de 10 elemente pentru LSADatabase, care retine pe pozitia i ultimul mesaj de tip M1 sau M3 primit de la ruterul i; o matrice de costuri care reprezinta topologia retelei, avand pe pozitia [i][j] costul legaturii dintre ruterele i si j, sau DRUMAX(infinit) daca nu exista legatura; o coada pentru mesajele neprocesate; in vector de costuri pentru vecini, pentru fiecare ruter, avand pe pozitia i costul legaturii cu vecinul i sau 0, daca nu exista o astfel de legatura.
+	Pentru calculul tabelei de rutare am folosit algoritmul lui Dijkstra, la care am adaugat o secventa care calculeaza next hop (urmatoarea oprire in drumul spre destinatie astfel incat costul drumului sa fie minim) prin intermediul unui vector de predecesori pentru noduri.
+	In functia de procesare de evenimente, am implementat actiunile fiecarui eveniment, sau mai bine zis primele actiuni ale fiecarui eveniment, pentru ca ele determina declansarea celorlalte actiuni prin propagarea in retea. Aceasta propagare se realizeaza datorita modului in care sunt procesate mesajele.
+	Procesarea mesajelor de tip M1, M2, M3, M4 nu se face direct, ci doar la primirea unui mesaj de tip M6, moment in care sunt scoase si procesate pe rand din coada in care au fost salvate, atata timp cat momentul de timp la care au fost create nu depaseste momentul actual de tip - 1. Mesajele de tip M1 determina actualizarea LSADatabase si topologiei, dace ele sunt mai recente si nu sunt copii ale celor salvate. Ele se propaga mai departe tuturor vecinilor ruterului care le-a primit, pana cand se intampla ca un mesaj sa ajunga la creatorul lui, atunci oprindu-se transmiterea. La primirea unui mesaj de tip M2 se trimite raspunsul de tip M3 cu informatiile despre toti vecinii ale ruterului curent, se actualizeaza structurile de date si apoi se trimit mesaje M1 tuturor vecinilor cu noua stare a ruterului. Primirea unui mesaj M3 determina actualizarea structurilor de date, deoarece reprezinta raspunsul la un request lansat de serverul curent. Mesajele de tip M4 se propaga prin retea pana la destinatie, cu actualizarea campurilor sender, time si next_hop. 
+	Procesarea evenimentelor si calculul tabelei de rutare se face dupa procesarea mesajelor.
+	
+	Observatii: Am observat ca, ruland primul test dat ca referinta, difera o valoare next hop din ultima tabela de rutare deoarece nodul afisat in exemplu duce la acelasi cost, dar este mai mare decat ca valoare decat nodul calculat de mine. Intrucat in specificatii este precizat ca, in cazul in care se gasesc cai multiple de cost egal catre aceeasi destinatie, se va alege calea in care urmatorul hop are id-ul cel mai mic, eu am adaptat algoritmul lui Dijkstra in acest sens.
+
+

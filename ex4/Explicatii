@@ -1,0 +1,3 @@
+ Exemplul 4 - un exemplu in care la timpul 2(t-1) se adauga nodul x, legat de nodul x-1, cu 1<=x<=9. Urmatorul eveniment dupa cele 9 adaugari de noi noduri este o rutare, de la primul(0) la ultimul nod (9). In 2 pasi de timpi nu se transmit datele pe 9 muchii, asa ca la momentul rutarii, nodul 0 inca nu stie de nodul 9. In conditiile din enunt mesajul nu poate fi rutat si (pentru ca nu se specifica altceva in specificatii), il aruncati(drop). (Actiunea de drop nu ajunge in log - e ca si cum evenimentul de rutare nu ar fi existat)
+
+In realitate exista o adresa/interfata/ruter default la care se trimit astfel de pachete. 
