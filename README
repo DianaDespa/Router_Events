@@ -1,8 +1,5 @@
-Despa Diana Alexandra 321CA
+Router simulator
 
-TEMA 2 Protocoale de Comunicatii
-
-	Pentru implementarea protocolului de dirijare cu starea legaturilor am pornit de la scheletul de cod.
 	Am creat o noua structura de date - my_paylaod, pentru gestiunea informatiilor pe care am ales sa le includ in payload-ul mesajelor : vectori de costuri pentru vecini, ruter destinatie (pentru M4) si timpul de creare al mesajului.
 	Structurile de date folosite sunt : un vector de 10 elemente pentru LSADatabase, care retine pe pozitia i ultimul mesaj de tip M1 sau M3 primit de la ruterul i; o matrice de costuri care reprezinta topologia retelei, avand pe pozitia [i][j] costul legaturii dintre ruterele i si j, sau DRUMAX(infinit) daca nu exista legatura; o coada pentru mesajele neprocesate; in vector de costuri pentru vecini, pentru fiecare ruter, avand pe pozitia i costul legaturii cu vecinul i sau 0, daca nu exista o astfel de legatura.
 	Pentru calculul tabelei de rutare am folosit algoritmul lui Dijkstra, la care am adaugat o secventa care calculeaza next hop (urmatoarea oprire in drumul spre destinatie astfel incat costul drumului sa fie minim) prin intermediul unui vector de predecesori pentru noduri.
